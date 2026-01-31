@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: b7a9a60b134018e4eae9b86d8edd9961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1869466099648806336
+    second: FireArrowRain_0
+  - first:
+      213: -2362481908056152679
+    second: FireArrowRain_1
+  - first:
+      213: 5782003917645007897
+    second: FireArrowRain_2
+  - first:
+      213: 1377934540127766549
+    second: FireArrowRain_3
+  - first:
+      213: 6739268521343588915
+    second: FireArrowRain_4
+  - first:
+      213: -7273226559843175793
+    second: FireArrowRain_5
+  - first:
+      213: 4591477986910502175
+    second: FireArrowRain_6
+  - first:
+      213: 9009007877316897281
+    second: FireArrowRain_7
+  - first:
+      213: 6971651730533274221
+    second: FireArrowRain_8
+  - first:
+      213: -29470046085715685
+    second: FireArrowRain_9
+  - first:
+      213: 631754720186853472
+    second: FireArrowRain_10
+  - first:
+      213: -3792849605986919050
+    second: FireArrowRain_11
+  - first:
+      213: 7629406707580937704
+    second: FireArrowRain_12
+  - first:
+      213: 6726023884321985811
+    second: FireArrowRain_13
+  - first:
+      213: 7106314828804036551
+    second: FireArrowRain_14
+  - first:
+      213: -795958647254082343
+    second: FireArrowRain_15
+  - first:
+      213: 2592476498923443125
+    second: FireArrowRain_16
+  - first:
+      213: -7169024227139880203
+    second: FireArrowRain_17
+  - first:
+      213: 7502363209311835644
+    second: FireArrowRain_18
+  - first:
+      213: 2177626875880933378
+    second: FireArrowRain_19
+  - first:
+      213: -297823008105347128
+    second: FireArrowRain_20
+  - first:
+      213: 7942050504494040329
+    second: FireArrowRain_21
+  - first:
+      213: 7321593880023891949
+    second: FireArrowRain_22
+  - first:
+      213: 7619297200952536371
+    second: FireArrowRain_23
+  - first:
+      213: 5384502578050996369
+    second: FireArrowRain_24
+  - first:
+      213: -5356792875439374782
+    second: FireArrowRain_25
+  - first:
+      213: 810461917580226478
+    second: FireArrowRain_26
+  - first:
+      213: -6015702792213145640
+    second: FireArrowRain_27
+  - first:
+      213: -2198579946641955959
+    second: FireArrowRain_28
+  - first:
+      213: 6238900407647649898
+    second: FireArrowRain_29
+  - first:
+      213: 4613791178301682816
+    second: FireArrowRain_30
+  - first:
+      213: 2063861176854297548
+    second: FireArrowRain_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireArrowRain_0
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 104
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdb335438da1f910800000000000000
+      internalID: 1869466099648806336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 85
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a60ab837c63fd0800000000000000
+      internalID: -2362481908056152679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc521cdedcd3050800000000000000
+      internalID: 5782003917645007897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 64
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188e04e9286f1310800000000000000
+      internalID: 1377934540127766549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_4
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 44
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a18a49301b68d50800000000000000
+      internalID: 6739268521343588915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_5
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 47
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827c91aafe401b90800000000000000
+      internalID: -7273226559843175793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_6
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 30
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d73d307e438bf30800000000000000
+      internalID: 4591477986910502175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_7
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 40
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a6b22ceec660d70800000000000000
+      internalID: 9009007877316897281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_8
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 25
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625c20cf4840c060800000000000000
+      internalID: 6971651730533274221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_9
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 25
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19eb83362d479ff0800000000000000
+      internalID: -29470046085715685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_10
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 114
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e9e1229174c800800000000000000
+      internalID: 631754720186853472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_11
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 93
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d5ba4f0671d5bc0800000000000000
+      internalID: -3792849605986919050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_12
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 75
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5285c6af811e960800000000000000
+      internalID: 7629406707580937704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_13
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 108
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3151ec73613a75d50800000000000000
+      internalID: 6726023884321985811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_14
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 24
+        width: 29
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c794f89fa3be9260800000000000000
+      internalID: 7106314828804036551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_15
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 25
+        width: 22
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc1586d3df24f4f0800000000000000
+      internalID: -795958647254082343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_16
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 32
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b351e6e3a35af320800000000000000
+      internalID: 2592476498923443125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_17
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa7823d272828c90800000000000000
+      internalID: -7169024227139880203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_18
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 67
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ddf2f69fbd1860800000000000000
+      internalID: 7502363209311835644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_19
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 24
+        width: 24
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2080a362b1c783e10800000000000000
+      internalID: 2177626875880933378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_20
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 85
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c741f35d8beddbf0800000000000000
+      internalID: -297823008105347128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_21
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 84
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054494ead4d73e60800000000000000
+      internalID: 7942050504494040329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_22
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 26
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7f78a7d68b9560800000000000000
+      internalID: 7321593880023891949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_23
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 14
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d67ec7f6e2db960800000000000000
+      internalID: 7619297200952536371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_24
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 26
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19897e0019899ba40800000000000000
+      internalID: 5384502578050996369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_25
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 55
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb714e249d8a5b0800000000000000
+      internalID: -5356792875439374782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_26
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 20
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafe95de1d65f3b00800000000000000
+      internalID: 810461917580226478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_27
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 70
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75fcbde2ee38ca0800000000000000
+      internalID: -6015702792213145640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_28
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 21
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983eb16ef231d71e0800000000000000
+      internalID: -2198579946641955959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_29
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 39
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c0ea9dd6059650800000000000000
+      internalID: 6238900407647649898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_30
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 9
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b08ab1aa770040800000000000000
+      internalID: 4613791178301682816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireArrowRain_31
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 9
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbbe183ece44ac10800000000000000
+      internalID: 2063861176854297548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireArrowRain_0: 1869466099648806336
+      FireArrowRain_1: -2362481908056152679
+      FireArrowRain_10: 631754720186853472
+      FireArrowRain_11: -3792849605986919050
+      FireArrowRain_12: 7629406707580937704
+      FireArrowRain_13: 6726023884321985811
+      FireArrowRain_14: 7106314828804036551
+      FireArrowRain_15: -795958647254082343
+      FireArrowRain_16: 2592476498923443125
+      FireArrowRain_17: -7169024227139880203
+      FireArrowRain_18: 7502363209311835644
+      FireArrowRain_19: 2177626875880933378
+      FireArrowRain_2: 5782003917645007897
+      FireArrowRain_20: -297823008105347128
+      FireArrowRain_21: 7942050504494040329
+      FireArrowRain_22: 7321593880023891949
+      FireArrowRain_23: 7619297200952536371
+      FireArrowRain_24: 5384502578050996369
+      FireArrowRain_25: -5356792875439374782
+      FireArrowRain_26: 810461917580226478
+      FireArrowRain_27: -6015702792213145640
+      FireArrowRain_28: -2198579946641955959
+      FireArrowRain_29: 6238900407647649898
+      FireArrowRain_3: 1377934540127766549
+      FireArrowRain_30: 4613791178301682816
+      FireArrowRain_31: 2063861176854297548
+      FireArrowRain_4: 6739268521343588915
+      FireArrowRain_5: -7273226559843175793
+      FireArrowRain_6: 4591477986910502175
+      FireArrowRain_7: 9009007877316897281
+      FireArrowRain_8: 6971651730533274221
+      FireArrowRain_9: -29470046085715685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

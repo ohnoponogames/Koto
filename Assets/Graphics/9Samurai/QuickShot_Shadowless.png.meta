@@ -1,0 +1,3562 @@
+fileFormatVersion: 2
+guid: 1753f188ac9cda3498487459874d1356
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5504338168855216017
+    second: QuickShot_Shadowless_0
+  - first:
+      213: 5495912116338641964
+    second: QuickShot_Shadowless_1
+  - first:
+      213: 3006671864429736530
+    second: QuickShot_Shadowless_2
+  - first:
+      213: 7059353666611910915
+    second: QuickShot_Shadowless_3
+  - first:
+      213: 1818861770624415732
+    second: QuickShot_Shadowless_4
+  - first:
+      213: 3014039174072347813
+    second: QuickShot_Shadowless_5
+  - first:
+      213: -7528208546299201921
+    second: QuickShot_Shadowless_6
+  - first:
+      213: 6447357416183312609
+    second: QuickShot_Shadowless_7
+  - first:
+      213: -6651820779673491082
+    second: QuickShot_Shadowless_8
+  - first:
+      213: 1845821096493450013
+    second: QuickShot_Shadowless_9
+  - first:
+      213: 9019912824898034263
+    second: QuickShot_Shadowless_10
+  - first:
+      213: -5485870683443092386
+    second: QuickShot_Shadowless_11
+  - first:
+      213: 7540785227390981366
+    second: QuickShot_Shadowless_12
+  - first:
+      213: 2284585421786369606
+    second: QuickShot_Shadowless_13
+  - first:
+      213: -4465094779681311580
+    second: QuickShot_Shadowless_14
+  - first:
+      213: -1545974900794283099
+    second: QuickShot_Shadowless_15
+  - first:
+      213: 3692529051387808150
+    second: QuickShot_Shadowless_16
+  - first:
+      213: 3710143076791791835
+    second: QuickShot_Shadowless_17
+  - first:
+      213: -7354590755108342899
+    second: QuickShot_Shadowless_18
+  - first:
+      213: -5402410207285293852
+    second: QuickShot_Shadowless_19
+  - first:
+      213: -8929138169318487012
+    second: QuickShot_Shadowless_20
+  - first:
+      213: 4561525990045352955
+    second: QuickShot_Shadowless_21
+  - first:
+      213: 2723649598730206948
+    second: QuickShot_Shadowless_22
+  - first:
+      213: -6108171032263891844
+    second: QuickShot_Shadowless_23
+  - first:
+      213: 183912868807568049
+    second: QuickShot_Shadowless_24
+  - first:
+      213: 6422818613966061724
+    second: QuickShot_Shadowless_25
+  - first:
+      213: 7886206862898150470
+    second: QuickShot_Shadowless_26
+  - first:
+      213: -657172121243676549
+    second: QuickShot_Shadowless_27
+  - first:
+      213: 2374608607624919928
+    second: QuickShot_Shadowless_28
+  - first:
+      213: -6639079391661779976
+    second: QuickShot_Shadowless_29
+  - first:
+      213: 5495077342124022111
+    second: QuickShot_Shadowless_30
+  - first:
+      213: -1806813941152548008
+    second: QuickShot_Shadowless_31
+  - first:
+      213: 1758572134157333024
+    second: QuickShot_Shadowless_32
+  - first:
+      213: -7932284020516274800
+    second: QuickShot_Shadowless_33
+  - first:
+      213: -8405546088189924638
+    second: QuickShot_Shadowless_34
+  - first:
+      213: 5267810980720319541
+    second: QuickShot_Shadowless_35
+  - first:
+      213: 5071001335569855301
+    second: QuickShot_Shadowless_36
+  - first:
+      213: 8360567275238901843
+    second: QuickShot_Shadowless_37
+  - first:
+      213: -3971902526044651981
+    second: QuickShot_Shadowless_38
+  - first:
+      213: -1529446701792784997
+    second: QuickShot_Shadowless_39
+  - first:
+      213: -3295865224282653757
+    second: QuickShot_Shadowless_40
+  - first:
+      213: 2760229010887918245
+    second: QuickShot_Shadowless_41
+  - first:
+      213: 8158686467929744545
+    second: QuickShot_Shadowless_42
+  - first:
+      213: -77997895417021435
+    second: QuickShot_Shadowless_43
+  - first:
+      213: -7466393466703305983
+    second: QuickShot_Shadowless_44
+  - first:
+      213: 5976974291253593331
+    second: QuickShot_Shadowless_45
+  - first:
+      213: -1402439713888867487
+    second: QuickShot_Shadowless_46
+  - first:
+      213: -2284372241612488260
+    second: QuickShot_Shadowless_47
+  - first:
+      213: -4549046449396436144
+    second: QuickShot_Shadowless_48
+  - first:
+      213: 1131417201495102082
+    second: QuickShot_Shadowless_49
+  - first:
+      213: -2351443850054234563
+    second: QuickShot_Shadowless_50
+  - first:
+      213: -5154632399302105173
+    second: QuickShot_Shadowless_51
+  - first:
+      213: 1515894283158944504
+    second: QuickShot_Shadowless_52
+  - first:
+      213: 4264598090362370463
+    second: QuickShot_Shadowless_53
+  - first:
+      213: 6781835112510934679
+    second: QuickShot_Shadowless_54
+  - first:
+      213: -8123035280596042745
+    second: QuickShot_Shadowless_55
+  - first:
+      213: 8106267813177749219
+    second: QuickShot_Shadowless_56
+  - first:
+      213: 2990039005309097980
+    second: QuickShot_Shadowless_57
+  - first:
+      213: -3823556145838044561
+    second: QuickShot_Shadowless_58
+  - first:
+      213: -525860438421800196
+    second: QuickShot_Shadowless_59
+  - first:
+      213: -4736518098676042027
+    second: QuickShot_Shadowless_60
+  - first:
+      213: 514330748751770059
+    second: QuickShot_Shadowless_61
+  - first:
+      213: -1366691246133766647
+    second: QuickShot_Shadowless_62
+  - first:
+      213: 2873148500245783205
+    second: QuickShot_Shadowless_63
+  - first:
+      213: -2384134257565940238
+    second: QuickShot_Shadowless_64
+  - first:
+      213: -4096589384551496062
+    second: QuickShot_Shadowless_65
+  - first:
+      213: 7812470126406489014
+    second: QuickShot_Shadowless_66
+  - first:
+      213: -9133499959176849478
+    second: QuickShot_Shadowless_67
+  - first:
+      213: -6940347651758229533
+    second: QuickShot_Shadowless_68
+  - first:
+      213: -3961631632855417035
+    second: QuickShot_Shadowless_69
+  - first:
+      213: -8090134894494723849
+    second: QuickShot_Shadowless_70
+  - first:
+      213: -5898963981795839624
+    second: QuickShot_Shadowless_71
+  - first:
+      213: -6053508470396497621
+    second: QuickShot_Shadowless_72
+  - first:
+      213: 6587806446176042059
+    second: QuickShot_Shadowless_73
+  - first:
+      213: 4634708685181773883
+    second: QuickShot_Shadowless_74
+  - first:
+      213: 6608262149250773068
+    second: QuickShot_Shadowless_75
+  - first:
+      213: 6532114597186913624
+    second: QuickShot_Shadowless_76
+  - first:
+      213: 7732193459345536461
+    second: QuickShot_Shadowless_77
+  - first:
+      213: -3338763064382702552
+    second: QuickShot_Shadowless_78
+  - first:
+      213: 5583165783905050103
+    second: QuickShot_Shadowless_79
+  - first:
+      213: 4051118306544297689
+    second: QuickShot_Shadowless_80
+  - first:
+      213: -4563429102898944158
+    second: QuickShot_Shadowless_81
+  - first:
+      213: -850374316308503063
+    second: QuickShot_Shadowless_82
+  - first:
+      213: 8632870737328043780
+    second: QuickShot_Shadowless_83
+  - first:
+      213: 7727431137552852486
+    second: QuickShot_Shadowless_84
+  - first:
+      213: 8392718631295570348
+    second: QuickShot_Shadowless_85
+  - first:
+      213: -1548829570874951529
+    second: QuickShot_Shadowless_86
+  - first:
+      213: 2742623189780058687
+    second: QuickShot_Shadowless_87
+  - first:
+      213: -8802166903378289466
+    second: QuickShot_Shadowless_88
+  - first:
+      213: 1045893382932968171
+    second: QuickShot_Shadowless_89
+  - first:
+      213: -4677263177732221628
+    second: QuickShot_Shadowless_90
+  - first:
+      213: -546047212463858724
+    second: QuickShot_Shadowless_91
+  - first:
+      213: -22225390390083104
+    second: QuickShot_Shadowless_92
+  - first:
+      213: -4460472934541900845
+    second: QuickShot_Shadowless_93
+  - first:
+      213: -6085229397755219015
+    second: QuickShot_Shadowless_94
+  - first:
+      213: 3711661107659614300
+    second: QuickShot_Shadowless_95
+  - first:
+      213: 3829420983401687670
+    second: QuickShot_Shadowless_96
+  - first:
+      213: -9124078895634198539
+    second: QuickShot_Shadowless_97
+  - first:
+      213: -3783054299523018817
+    second: QuickShot_Shadowless_98
+  - first:
+      213: 6542785219302077383
+    second: QuickShot_Shadowless_99
+  - first:
+      213: 1768090830897096305
+    second: QuickShot_Shadowless_100
+  - first:
+      213: 4894540804445991011
+    second: QuickShot_Shadowless_101
+  - first:
+      213: -7321868449128737660
+    second: QuickShot_Shadowless_102
+  - first:
+      213: 3760153622335974800
+    second: QuickShot_Shadowless_103
+  - first:
+      213: -3594410874149692782
+    second: QuickShot_Shadowless_104
+  - first:
+      213: -4670804283683050140
+    second: QuickShot_Shadowless_105
+  - first:
+      213: 3007783159942779654
+    second: QuickShot_Shadowless_106
+  - first:
+      213: 1384690615348054352
+    second: QuickShot_Shadowless_107
+  - first:
+      213: -5790098735143681877
+    second: QuickShot_Shadowless_108
+  - first:
+      213: -1709913486296892064
+    second: QuickShot_Shadowless_109
+  - first:
+      213: -6738790835736623458
+    second: QuickShot_Shadowless_110
+  - first:
+      213: 3123975528289150347
+    second: QuickShot_Shadowless_111
+  - first:
+      213: 8798166967488948600
+    second: QuickShot_Shadowless_112
+  - first:
+      213: -7059855489032266665
+    second: QuickShot_Shadowless_113
+  - first:
+      213: 2811418378653404354
+    second: QuickShot_Shadowless_114
+  - first:
+      213: 8359579031094563331
+    second: QuickShot_Shadowless_115
+  - first:
+      213: -6556983193677876054
+    second: QuickShot_Shadowless_116
+  - first:
+      213: -6746628603997503095
+    second: QuickShot_Shadowless_117
+  - first:
+      213: -31494324542020650
+    second: QuickShot_Shadowless_118
+  - first:
+      213: 7771705112630144412
+    second: QuickShot_Shadowless_119
+  - first:
+      213: 7194899571433960203
+    second: QuickShot_Shadowless_120
+  - first:
+      213: -2433271119054995948
+    second: QuickShot_Shadowless_121
+  - first:
+      213: -7004264976252208726
+    second: QuickShot_Shadowless_122
+  - first:
+      213: -3827506038236239486
+    second: QuickShot_Shadowless_123
+  - first:
+      213: 2855877290487041259
+    second: QuickShot_Shadowless_124
+  - first:
+      213: -2346112525343304645
+    second: QuickShot_Shadowless_125
+  - first:
+      213: -7707468826775228972
+    second: QuickShot_Shadowless_126
+  - first:
+      213: 1714119102109493802
+    second: QuickShot_Shadowless_127
+  - first:
+      213: 8273849141187015362
+    second: QuickShot_Shadowless_128
+  - first:
+      213: 939701776480235038
+    second: QuickShot_Shadowless_129
+  - first:
+      213: 976270016573919714
+    second: QuickShot_Shadowless_130
+  - first:
+      213: -8585785247784903252
+    second: QuickShot_Shadowless_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 468
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f3d3eb666536c40800000000000000
+      internalID: 5504338168855216017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 470
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c412383f6654c40800000000000000
+      internalID: 5495912116338641964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252fe737128d9b920800000000000000
+      internalID: 3006671864429736530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309114af1ccd7f160800000000000000
+      internalID: 7059353666611910915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73b95c425ed3910800000000000000
+      internalID: 1818861770624415732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca1b5e8a404d920800000000000000
+      internalID: 3014039174072347813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b6ca963e668790800000000000000
+      internalID: -7528208546299201921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03693196d997950800000000000000
+      internalID: 6447357416183312609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679eff56e3cffa3a0800000000000000
+      internalID: -6651820779673491082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130a67f18cad9910800000000000000
+      internalID: 1845821096493450013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a9909bcea2d2d70800000000000000
+      internalID: 9019912824898034263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5425a5cda54ed3b0800000000000000
+      internalID: -5485870683443092386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f41726263046a860800000000000000
+      internalID: 7540785227390981366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 469
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ecc9c365a74bf10800000000000000
+      internalID: 2284585421786369606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 467
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f4a874fbc802c0800000000000000
+      internalID: -4465094779681311580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 403
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abac76c4089b8ae0800000000000000
+      internalID: -1545974900794283099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 406
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699c7cebb9f7e3330800000000000000
+      internalID: 3692529051387808150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0bc0e98731d7330800000000000000
+      internalID: 3710143076791791835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83356dacae3fe990800000000000000
+      internalID: -7354590755108342899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc0d72a88c605b0800000000000000
+      internalID: -5402410207285293852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc363c424551480800000000000000
+      internalID: -8929138169318487012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38d5e48bbcd4f30800000000000000
+      internalID: 4561525990045352955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef2f821e85cc520800000000000000
+      internalID: 2723649598730206948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7464920fca6b3ba0800000000000000
+      internalID: -6108171032263891844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae5ee97c36d8200800000000000000
+      internalID: 183912868807568049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90c636ff7f622950800000000000000
+      internalID: 6422818613966061724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cba40eb5f617d60800000000000000
+      internalID: 7886206862898150470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 403
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b701bf4007141e6f0800000000000000
+      internalID: -657172121243676549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 403
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b711a82fd44f020800000000000000
+      internalID: 2374608607624919928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f31268f7704dd3a0800000000000000
+      internalID: -6639079391661779976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 337
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59999e7abf624c40800000000000000
+      internalID: 5495077342124022111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf06e1b48ece6e0800000000000000
+      internalID: -1806813941152548008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223958e904b76810800000000000000
+      internalID: 1758572134157333024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dbe9bd5bddae190800000000000000
+      internalID: -7932284020516274800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eae3460e50895b80800000000000000
+      internalID: -8405546088189924638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9cb94d260b1940800000000000000
+      internalID: 5267810980720319541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433c2ee8d0df5640800000000000000
+      internalID: 5071001335569855301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ce5104a3b60470800000000000000
+      internalID: 8360567275238901843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb1a452b7f0e8c0800000000000000
+      internalID: -3971902526044651981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d8fbcf35056cae0800000000000000
+      internalID: -1529446701792784997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbb11f6a0cb242d0800000000000000
+      internalID: -3295865224282653757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2c3bc39ad4e4620800000000000000
+      internalID: 2760229010887918245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 338
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a42db2bd1a793170800000000000000
+      internalID: 8158686467929744545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 338
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb07ec355eaeef0800000000000000
+      internalID: -77997895417021435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 338
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1032adf53ba026890800000000000000
+      internalID: -7466393466703305983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 274
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f400d5537a72f250800000000000000
+      internalID: 5976974291253593331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 274
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16be0cab288898ce0800000000000000
+      internalID: -1402439713888867487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1cce3ac874c40e0800000000000000
+      internalID: -2284372241612488260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05339fc2b5a8ed0c0800000000000000
+      internalID: -4549046449396436144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d1e343f993bf00800000000000000
+      internalID: 1131417201495102082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e8d30e64efd5fd0800000000000000
+      internalID: -2351443850054234563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e0eba4211778b0800000000000000
+      internalID: -5154632399302105173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fafbb8a1d9890510800000000000000
+      internalID: 1515894283158944504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99bbdd4e55ee2b30800000000000000
+      internalID: 4264598090362370463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4c766a1bed1e50800000000000000
+      internalID: 6781835112510934679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c7b12337e254f80800000000000000
+      internalID: -8123035280596042745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee64a290af3f7070800000000000000
+      internalID: 8106267813177749219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 275
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d20822a0ce7920800000000000000
+      internalID: 2990039005309097980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 275
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6acf8481ffffeac0800000000000000
+      internalID: -3823556145838044561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 274
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaff66a7b4c3b8f0800000000000000
+      internalID: -525860438421800196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b43862e1844eb0800000000000000
+      internalID: -4736518098676042027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 209
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f8684715432700800000000000000
+      internalID: 514330748751770059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069f8c7d89880de0800000000000000
+      internalID: -1366691246133766647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a810a6597fd720800000000000000
+      internalID: 2873148500245783205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f541f0468ad9eed0800000000000000
+      internalID: -2384134257565940238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2860c2fc8adf527c0800000000000000
+      internalID: -4096589384551496062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b35fce00387b6c60800000000000000
+      internalID: 7812470126406489014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab71831bd2a4f3180800000000000000
+      internalID: -9133499959176849478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fb3f059eeeaf90800000000000000
+      internalID: -6940347651758229533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb3b005057509c0800000000000000
+      internalID: -3961631632855417035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f056a44d211abf80800000000000000
+      internalID: -8090134894494723849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8713c3a338ba22ea0800000000000000
+      internalID: -5898963981795839624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d2397e1e9dfba0800000000000000
+      internalID: -6053508470396497621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 211
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf9512f079c6b50800000000000000
+      internalID: 6587806446176042059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 212
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b386da15efac15040800000000000000
+      internalID: 4634708685181773883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 148
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4070c4a96345bb50800000000000000
+      internalID: 6608262149250773068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 147
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85548751e9bb6aa50800000000000000
+      internalID: 6532114597186913624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b3eefbf44e4b60800000000000000
+      internalID: 7732193459345536461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3646bea45aa1d0800000000000000
+      internalID: -3338763064382702552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd96c713b36b7d40800000000000000
+      internalID: 5583165783905050103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a7a4d2a6783830800000000000000
+      internalID: 4051118306544297689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676704b8617ba0c0800000000000000
+      internalID: -4563429102898944158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5e056901dd234f0800000000000000
+      internalID: -850374316308503063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077d4a523e1ec770800000000000000
+      internalID: 8632870737328043780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606612c8da95d3b60800000000000000
+      internalID: 7727431137552852486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1dc2ee02de87470800000000000000
+      internalID: 8392718631295570348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b06a16b3718ae0800000000000000
+      internalID: -1548829570874951529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 146
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32d6939241cf0620800000000000000
+      internalID: 2742623189780058687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 145
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdf6656db68d580800000000000000
+      internalID: -8802166903378289466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 150
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b6aa8d72c38e00800000000000000
+      internalID: 1045893382932968171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 83
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445914acbe5071fb0800000000000000
+      internalID: -4677263177732221628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbdf7e04fc0c68f0800000000000000
+      internalID: -546047212463858724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10ecc002a01bff0800000000000000
+      internalID: -22225390390083104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c266af773912c0800000000000000
+      internalID: -4460472934541900845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3390a8a1cec8ba0800000000000000
+      internalID: -6085229397755219015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c582fa8bc18728330800000000000000
+      internalID: 3711661107659614300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa5136816d42530800000000000000
+      internalID: 3829420983401687670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffc51bf592c06180800000000000000
+      internalID: -9124078895634198539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf8ae67824ef7bc0800000000000000
+      internalID: -3783054299523018817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c33d26ed74acca50800000000000000
+      internalID: 6542785219302077383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1762f323e35898810800000000000000
+      internalID: 1768090830897096305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36078a3ede6ece340800000000000000
+      internalID: 4894540804445991011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849a8d307f736a90800000000000000
+      internalID: -7321868449128737660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09deb302ccfbe2430800000000000000
+      internalID: 3760153622335974800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a918d9a561e1ec0800000000000000
+      internalID: -3594410874149692782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de2bf3048fd2fb0800000000000000
+      internalID: -4670804283683050140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039ac919dacdb920800000000000000
+      internalID: 3007783159942779654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05943ab37c8673310800000000000000
+      internalID: 1384690615348054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0825da0ef65afa0800000000000000
+      internalID: -5790098735143681877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dbf946eba2548e0800000000000000
+      internalID: -1709913486296892064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c24440710b72a0800000000000000
+      internalID: -6738790835736623458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8520b201379a5b20800000000000000
+      internalID: 3123975528289150347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 82
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87921c30e3e591a70800000000000000
+      internalID: 8798166967488948600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd3a266da560e90800000000000000
+      internalID: -7059855489032266665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 82
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc04aeae1a240720800000000000000
+      internalID: 2811418378653404354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302123c76d0330470800000000000000
+      internalID: 8359579031094563331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 85
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4bf96968ae005a0800000000000000
+      internalID: -6556983193677876054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814d33a7092f52a0800000000000000
+      internalID: -6746628603997503095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d36b35241c109ff0800000000000000
+      internalID: -31494324542020650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2869af94aadb60800000000000000
+      internalID: 7771705112630144412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b037eed3a0b69d360800000000000000
+      internalID: 7194899571433960203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e728a2fc84b3ed0800000000000000
+      internalID: -2433271119054995948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_122
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f6c14d1adbce90800000000000000
+      internalID: -7004264976252208726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_123
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28924478987f1eac0800000000000000
+      internalID: -3827506038236239486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_124
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becc59db34d12a720800000000000000
+      internalID: 2855877290487041259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_125
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3451d3a61fe07fd0800000000000000
+      internalID: -2346112525343304645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_126
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6aae10f1990590800000000000000
+      internalID: -7707468826775228972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_127
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aa2f7dd36c9c710800000000000000
+      internalID: 1714119102109493802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_128
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c27f9905fd92d270800000000000000
+      internalID: 8273849141187015362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_129
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 18
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e68e579cd7a0d00800000000000000
+      internalID: 939701776480235038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 19
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1d0c658686c8d00800000000000000
+      internalID: 976270016573919714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_Shadowless_131
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadddfb7ec929d880800000000000000
+      internalID: -8585785247784903252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QuickShot_Shadowless_0: 5504338168855216017
+      QuickShot_Shadowless_1: 5495912116338641964
+      QuickShot_Shadowless_10: 9019912824898034263
+      QuickShot_Shadowless_100: 1768090830897096305
+      QuickShot_Shadowless_101: 4894540804445991011
+      QuickShot_Shadowless_102: -7321868449128737660
+      QuickShot_Shadowless_103: 3760153622335974800
+      QuickShot_Shadowless_104: -3594410874149692782
+      QuickShot_Shadowless_105: -4670804283683050140
+      QuickShot_Shadowless_106: 3007783159942779654
+      QuickShot_Shadowless_107: 1384690615348054352
+      QuickShot_Shadowless_108: -5790098735143681877
+      QuickShot_Shadowless_109: -1709913486296892064
+      QuickShot_Shadowless_11: -5485870683443092386
+      QuickShot_Shadowless_110: -6738790835736623458
+      QuickShot_Shadowless_111: 3123975528289150347
+      QuickShot_Shadowless_112: 8798166967488948600
+      QuickShot_Shadowless_113: -7059855489032266665
+      QuickShot_Shadowless_114: 2811418378653404354
+      QuickShot_Shadowless_115: 8359579031094563331
+      QuickShot_Shadowless_116: -6556983193677876054
+      QuickShot_Shadowless_117: -6746628603997503095
+      QuickShot_Shadowless_118: -31494324542020650
+      QuickShot_Shadowless_119: 7771705112630144412
+      QuickShot_Shadowless_12: 7540785227390981366
+      QuickShot_Shadowless_120: 7194899571433960203
+      QuickShot_Shadowless_121: -2433271119054995948
+      QuickShot_Shadowless_122: -7004264976252208726
+      QuickShot_Shadowless_123: -3827506038236239486
+      QuickShot_Shadowless_124: 2855877290487041259
+      QuickShot_Shadowless_125: -2346112525343304645
+      QuickShot_Shadowless_126: -7707468826775228972
+      QuickShot_Shadowless_127: 1714119102109493802
+      QuickShot_Shadowless_128: 8273849141187015362
+      QuickShot_Shadowless_129: 939701776480235038
+      QuickShot_Shadowless_13: 2284585421786369606
+      QuickShot_Shadowless_130: 976270016573919714
+      QuickShot_Shadowless_131: -8585785247784903252
+      QuickShot_Shadowless_14: -4465094779681311580
+      QuickShot_Shadowless_15: -1545974900794283099
+      QuickShot_Shadowless_16: 3692529051387808150
+      QuickShot_Shadowless_17: 3710143076791791835
+      QuickShot_Shadowless_18: -7354590755108342899
+      QuickShot_Shadowless_19: -5402410207285293852
+      QuickShot_Shadowless_2: 3006671864429736530
+      QuickShot_Shadowless_20: -8929138169318487012
+      QuickShot_Shadowless_21: 4561525990045352955
+      QuickShot_Shadowless_22: 2723649598730206948
+      QuickShot_Shadowless_23: -6108171032263891844
+      QuickShot_Shadowless_24: 183912868807568049
+      QuickShot_Shadowless_25: 6422818613966061724
+      QuickShot_Shadowless_26: 7886206862898150470
+      QuickShot_Shadowless_27: -657172121243676549
+      QuickShot_Shadowless_28: 2374608607624919928
+      QuickShot_Shadowless_29: -6639079391661779976
+      QuickShot_Shadowless_3: 7059353666611910915
+      QuickShot_Shadowless_30: 5495077342124022111
+      QuickShot_Shadowless_31: -1806813941152548008
+      QuickShot_Shadowless_32: 1758572134157333024
+      QuickShot_Shadowless_33: -7932284020516274800
+      QuickShot_Shadowless_34: -8405546088189924638
+      QuickShot_Shadowless_35: 5267810980720319541
+      QuickShot_Shadowless_36: 5071001335569855301
+      QuickShot_Shadowless_37: 8360567275238901843
+      QuickShot_Shadowless_38: -3971902526044651981
+      QuickShot_Shadowless_39: -1529446701792784997
+      QuickShot_Shadowless_4: 1818861770624415732
+      QuickShot_Shadowless_40: -3295865224282653757
+      QuickShot_Shadowless_41: 2760229010887918245
+      QuickShot_Shadowless_42: 8158686467929744545
+      QuickShot_Shadowless_43: -77997895417021435
+      QuickShot_Shadowless_44: -7466393466703305983
+      QuickShot_Shadowless_45: 5976974291253593331
+      QuickShot_Shadowless_46: -1402439713888867487
+      QuickShot_Shadowless_47: -2284372241612488260
+      QuickShot_Shadowless_48: -4549046449396436144
+      QuickShot_Shadowless_49: 1131417201495102082
+      QuickShot_Shadowless_5: 3014039174072347813
+      QuickShot_Shadowless_50: -2351443850054234563
+      QuickShot_Shadowless_51: -5154632399302105173
+      QuickShot_Shadowless_52: 1515894283158944504
+      QuickShot_Shadowless_53: 4264598090362370463
+      QuickShot_Shadowless_54: 6781835112510934679
+      QuickShot_Shadowless_55: -8123035280596042745
+      QuickShot_Shadowless_56: 8106267813177749219
+      QuickShot_Shadowless_57: 2990039005309097980
+      QuickShot_Shadowless_58: -3823556145838044561
+      QuickShot_Shadowless_59: -525860438421800196
+      QuickShot_Shadowless_6: -7528208546299201921
+      QuickShot_Shadowless_60: -4736518098676042027
+      QuickShot_Shadowless_61: 514330748751770059
+      QuickShot_Shadowless_62: -1366691246133766647
+      QuickShot_Shadowless_63: 2873148500245783205
+      QuickShot_Shadowless_64: -2384134257565940238
+      QuickShot_Shadowless_65: -4096589384551496062
+      QuickShot_Shadowless_66: 7812470126406489014
+      QuickShot_Shadowless_67: -9133499959176849478
+      QuickShot_Shadowless_68: -6940347651758229533
+      QuickShot_Shadowless_69: -3961631632855417035
+      QuickShot_Shadowless_7: 6447357416183312609
+      QuickShot_Shadowless_70: -8090134894494723849
+      QuickShot_Shadowless_71: -5898963981795839624
+      QuickShot_Shadowless_72: -6053508470396497621
+      QuickShot_Shadowless_73: 6587806446176042059
+      QuickShot_Shadowless_74: 4634708685181773883
+      QuickShot_Shadowless_75: 6608262149250773068
+      QuickShot_Shadowless_76: 6532114597186913624
+      QuickShot_Shadowless_77: 7732193459345536461
+      QuickShot_Shadowless_78: -3338763064382702552
+      QuickShot_Shadowless_79: 5583165783905050103
+      QuickShot_Shadowless_8: -6651820779673491082
+      QuickShot_Shadowless_80: 4051118306544297689
+      QuickShot_Shadowless_81: -4563429102898944158
+      QuickShot_Shadowless_82: -850374316308503063
+      QuickShot_Shadowless_83: 8632870737328043780
+      QuickShot_Shadowless_84: 7727431137552852486
+      QuickShot_Shadowless_85: 8392718631295570348
+      QuickShot_Shadowless_86: -1548829570874951529
+      QuickShot_Shadowless_87: 2742623189780058687
+      QuickShot_Shadowless_88: -8802166903378289466
+      QuickShot_Shadowless_89: 1045893382932968171
+      QuickShot_Shadowless_9: 1845821096493450013
+      QuickShot_Shadowless_90: -4677263177732221628
+      QuickShot_Shadowless_91: -546047212463858724
+      QuickShot_Shadowless_92: -22225390390083104
+      QuickShot_Shadowless_93: -4460472934541900845
+      QuickShot_Shadowless_94: -6085229397755219015
+      QuickShot_Shadowless_95: 3711661107659614300
+      QuickShot_Shadowless_96: 3829420983401687670
+      QuickShot_Shadowless_97: -9124078895634198539
+      QuickShot_Shadowless_98: -3783054299523018817
+      QuickShot_Shadowless_99: 6542785219302077383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

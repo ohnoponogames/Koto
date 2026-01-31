@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1cdd4bd1cc45b3647b5c2df6b1e5f3eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8495633831528727545
+    second: DeathAoE_0
+  - first:
+      213: -3608590427348012387
+    second: DeathAoE_1
+  - first:
+      213: 2130390266677246310
+    second: DeathAoE_2
+  - first:
+      213: -8925072689154375803
+    second: DeathAoE_3
+  - first:
+      213: -5721557559574994671
+    second: DeathAoE_4
+  - first:
+      213: -4477367317584878269
+    second: DeathAoE_5
+  - first:
+      213: 4233984191257282481
+    second: DeathAoE_6
+  - first:
+      213: -1902911788045930537
+    second: DeathAoE_7
+  - first:
+      213: 5039441388833950634
+    second: DeathAoE_8
+  - first:
+      213: 1293063669825651719
+    second: DeathAoE_9
+  - first:
+      213: 1521838244328866063
+    second: DeathAoE_10
+  - first:
+      213: 3381344056729123916
+    second: DeathAoE_11
+  - first:
+      213: -3075457829320709839
+    second: DeathAoE_12
+  - first:
+      213: -4502536674951964140
+    second: DeathAoE_13
+  - first:
+      213: 918827882050685759
+    second: DeathAoE_14
+  - first:
+      213: -4751039678524955747
+    second: DeathAoE_15
+  - first:
+      213: 2468956337141140178
+    second: DeathAoE_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathAoE_0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 175
+        width: 624
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c70f1ca02791a80800000000000000
+      internalID: -8495633831528727545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_1
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 120
+        width: 372
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92fb0e1026bbedc0800000000000000
+      internalID: -3608590427348012387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_2
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 134
+        width: 316
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6693f3609aaa09d10800000000000000
+      internalID: 2130390266677246310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_3
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 154
+        width: 264
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb9602da5c32480800000000000000
+      internalID: -8925072689154375803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_4
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 150
+        width: 280
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111e493b6b1f890b0800000000000000
+      internalID: -5721557559574994671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_5
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 130
+        width: 350
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e86295223dd1c0800000000000000
+      internalID: -4477367317584878269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_6
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 105
+        width: 406
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b78288703222ca30800000000000000
+      internalID: 4233984191257282481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_7
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 94
+        width: 460
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df6e929fcf7795e0800000000000000
+      internalID: -1902911788045930537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_8
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 87
+        width: 486
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab49d73e31bfe540800000000000000
+      internalID: 5039441388833950634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_9
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 91
+        width: 486
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cbe78e82e1f110800000000000000
+      internalID: 1293063669825651719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_10
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 96
+        width: 448
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0183d6f1d7ae1510800000000000000
+      internalID: 1521838244328866063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_11
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 108
+        width: 398
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb7b42182fcee20800000000000000
+      internalID: 3381344056729123916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_12
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 143
+        width: 260
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13925a11667c155d0800000000000000
+      internalID: -3075457829320709839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_13
+      rect:
+        serializedVersion: 2
+        x: 6977
+        y: 142
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ad155efb6c381c0800000000000000
+      internalID: -4502536674951964140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_14
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 90
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b0b5f271550cc00800000000000000
+      internalID: 918827882050685759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_15
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93ebbf959ae01eb0800000000000000
+      internalID: -4751039678524955747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathAoE_16
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 87
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da4f3125be734220800000000000000
+      internalID: 2468956337141140178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DeathAoE_0: -8495633831528727545
+      DeathAoE_1: -3608590427348012387
+      DeathAoE_10: 1521838244328866063
+      DeathAoE_11: 3381344056729123916
+      DeathAoE_12: -3075457829320709839
+      DeathAoE_13: -4502536674951964140
+      DeathAoE_14: 918827882050685759
+      DeathAoE_15: -4751039678524955747
+      DeathAoE_16: 2468956337141140178
+      DeathAoE_2: 2130390266677246310
+      DeathAoE_3: -8925072689154375803
+      DeathAoE_4: -5721557559574994671
+      DeathAoE_5: -4477367317584878269
+      DeathAoE_6: 4233984191257282481
+      DeathAoE_7: -1902911788045930537
+      DeathAoE_8: 5039441388833950634
+      DeathAoE_9: 1293063669825651719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

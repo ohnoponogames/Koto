@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 6c1450ffe78bef8478af008ed174dd49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3088582865887395748
+    second: DeathSpell_0
+  - first:
+      213: 9033577672262731960
+    second: DeathSpell_1
+  - first:
+      213: 7190914554535966795
+    second: DeathSpell_2
+  - first:
+      213: 8093997454682101909
+    second: DeathSpell_3
+  - first:
+      213: -6244558421682957411
+    second: DeathSpell_4
+  - first:
+      213: -7650119364006341566
+    second: DeathSpell_5
+  - first:
+      213: 1591280389259416667
+    second: DeathSpell_6
+  - first:
+      213: 5567027249573950216
+    second: DeathSpell_7
+  - first:
+      213: -1904939254917530803
+    second: DeathSpell_8
+  - first:
+      213: 2612419540903886678
+    second: DeathSpell_9
+  - first:
+      213: 2441052810348851670
+    second: DeathSpell_10
+  - first:
+      213: -3521940587906613738
+    second: DeathSpell_11
+  - first:
+      213: 1386707416441776678
+    second: DeathSpell_12
+  - first:
+      213: 8793954201641223471
+    second: DeathSpell_13
+  - first:
+      213: -7176408695388893168
+    second: DeathSpell_14
+  - first:
+      213: -6703654761715679965
+    second: DeathSpell_15
+  - first:
+      213: -5047440004753801266
+    second: DeathSpell_16
+  - first:
+      213: 3717375347448489394
+    second: DeathSpell_17
+  - first:
+      213: -5793538067640751337
+    second: DeathSpell_18
+  - first:
+      213: 5037719792217135444
+    second: DeathSpell_19
+  - first:
+      213: -8513016264707200450
+    second: DeathSpell_20
+  - first:
+      213: -536193014185124407
+    second: DeathSpell_21
+  - first:
+      213: 921494030804228542
+    second: DeathSpell_22
+  - first:
+      213: 2184002968006375857
+    second: DeathSpell_23
+  - first:
+      213: 136753561259615458
+    second: DeathSpell_24
+  - first:
+      213: 8799851094214351725
+    second: DeathSpell_25
+  - first:
+      213: -716137441353740748
+    second: DeathSpell_26
+  - first:
+      213: 431877823964625868
+    second: DeathSpell_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathSpell_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 32
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af7394a0c9dcda20800000000000000
+      internalID: 3088582865887395748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 33
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ce1ee707bd5d70800000000000000
+      internalID: 9033577672262731960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 34
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487d4130b24bc360800000000000000
+      internalID: 7190914554535966795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 20
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5981e3b1dc7a35070800000000000000
+      internalID: 8093997454682101909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 38
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93d968533fd659a0800000000000000
+      internalID: -6244558421682957411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 37
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244901378f055d590800000000000000
+      internalID: -7650119364006341566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_6
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 40
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b545ad3451d551610800000000000000
+      internalID: 1591280389259416667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 35
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80376c1c9cd024d40800000000000000
+      internalID: 5567027249573950216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 32
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b71f727db4095e0800000000000000
+      internalID: -1904939254917530803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 20
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7dd33bbd214420800000000000000
+      internalID: 2612419540903886678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 15
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ffc6099c50e120800000000000000
+      internalID: 2441052810348851670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_11
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 25
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ebbc102bd8f1fc0800000000000000
+      internalID: -3521940587906613738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 26
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a69645c039e3310800000000000000
+      internalID: 1386707416441776678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2501e701c66a0a70800000000000000
+      internalID: 8793954201641223471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 26
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01012545056486c90800000000000000
+      internalID: -7176408695388893168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 22
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32db41ff285d7f2a0800000000000000
+      internalID: -6703654761715679965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 24
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfbd83ee04e3f9b0800000000000000
+      internalID: -5047440004753801266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 14
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52679de25c69330800000000000000
+      internalID: 3717375347448489394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 26
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71be19da2d7399fa0800000000000000
+      internalID: -5793538067640751337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 25
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599e05c57399e540800000000000000
+      internalID: 5037719792217135444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 23
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a2107afc0bbd980800000000000000
+      internalID: -8513016264707200450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_21
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 12
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd13726b4f0f88f0800000000000000
+      internalID: -536193014185124407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 18
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99ab050fdc9cc00800000000000000
+      internalID: 921494030804228542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 11
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b93b68c0232f4e10800000000000000
+      internalID: 2184002968006375857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_24
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 11
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e426a0b3a8d5e100800000000000000
+      internalID: 136753561259615458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_25
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 11
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9af252f95f1a70800000000000000
+      internalID: 8799851094214351725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 11
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec0c59ac4cf06f0800000000000000
+      internalID: -716137441353740748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSpell_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 14
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbb7cbb7965ef500800000000000000
+      internalID: 431877823964625868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DeathSpell_0: 3088582865887395748
+      DeathSpell_1: 9033577672262731960
+      DeathSpell_10: 2441052810348851670
+      DeathSpell_11: -3521940587906613738
+      DeathSpell_12: 1386707416441776678
+      DeathSpell_13: 8793954201641223471
+      DeathSpell_14: -7176408695388893168
+      DeathSpell_15: -6703654761715679965
+      DeathSpell_16: -5047440004753801266
+      DeathSpell_17: 3717375347448489394
+      DeathSpell_18: -5793538067640751337
+      DeathSpell_19: 5037719792217135444
+      DeathSpell_2: 7190914554535966795
+      DeathSpell_20: -8513016264707200450
+      DeathSpell_21: -536193014185124407
+      DeathSpell_22: 921494030804228542
+      DeathSpell_23: 2184002968006375857
+      DeathSpell_24: 136753561259615458
+      DeathSpell_25: 8799851094214351725
+      DeathSpell_26: -716137441353740748
+      DeathSpell_27: 431877823964625868
+      DeathSpell_3: 8093997454682101909
+      DeathSpell_4: -6244558421682957411
+      DeathSpell_5: -7650119364006341566
+      DeathSpell_6: 1591280389259416667
+      DeathSpell_7: 5567027249573950216
+      DeathSpell_8: -1904939254917530803
+      DeathSpell_9: 2612419540903886678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

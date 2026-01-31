@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: e0ff267e0b46e9b49aaa7d80e6eee8c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9011324600712925858
+    second: ArrowRain_0
+  - first:
+      213: 6402973586441760749
+    second: ArrowRain_1
+  - first:
+      213: 7716713145672706382
+    second: ArrowRain_2
+  - first:
+      213: 5994142319923270542
+    second: ArrowRain_3
+  - first:
+      213: 2410886208187416999
+    second: ArrowRain_4
+  - first:
+      213: 172379963896522536
+    second: ArrowRain_5
+  - first:
+      213: -7510465998481798659
+    second: ArrowRain_6
+  - first:
+      213: -7411971229570886799
+    second: ArrowRain_7
+  - first:
+      213: 5161046929510699435
+    second: ArrowRain_8
+  - first:
+      213: -3902733015226567845
+    second: ArrowRain_9
+  - first:
+      213: -896161457627540991
+    second: ArrowRain_10
+  - first:
+      213: -967691680061322528
+    second: ArrowRain_11
+  - first:
+      213: 3688218521724323965
+    second: ArrowRain_12
+  - first:
+      213: 3872678118256036913
+    second: ArrowRain_13
+  - first:
+      213: -5565947654198887630
+    second: ArrowRain_14
+  - first:
+      213: -8658251012966191588
+    second: ArrowRain_15
+  - first:
+      213: -4385795957743417338
+    second: ArrowRain_16
+  - first:
+      213: 9166877961278394118
+    second: ArrowRain_17
+  - first:
+      213: -7336756008766492371
+    second: ArrowRain_18
+  - first:
+      213: -4836488939678538140
+    second: ArrowRain_19
+  - first:
+      213: 1774590106113176810
+    second: ArrowRain_20
+  - first:
+      213: 504631539404210004
+    second: ArrowRain_21
+  - first:
+      213: -7279841576449797966
+    second: ArrowRain_22
+  - first:
+      213: -8994595445833415863
+    second: ArrowRain_23
+  - first:
+      213: -2417948116648170209
+    second: ArrowRain_24
+  - first:
+      213: 6769551639364953388
+    second: ArrowRain_25
+  - first:
+      213: -7221787975260092965
+    second: ArrowRain_26
+  - first:
+      213: 822579744556973852
+    second: ArrowRain_27
+  - first:
+      213: -8188372010276294801
+    second: ArrowRain_28
+  - first:
+      213: -7893832621408776396
+    second: ArrowRain_29
+  - first:
+      213: -6687782706509277383
+    second: ArrowRain_30
+  - first:
+      213: 3927152597593058878
+    second: ArrowRain_31
+  - first:
+      213: -5514668082223338951
+    second: ArrowRain_32
+  - first:
+      213: 2165131911715825443
+    second: ArrowRain_33
+  - first:
+      213: -6361252492354278403
+    second: ArrowRain_34
+  - first:
+      213: 4128891782208019366
+    second: ArrowRain_35
+  - first:
+      213: 7617724775641477317
+    second: ArrowRain_36
+  - first:
+      213: 2335261638289283505
+    second: ArrowRain_37
+  - first:
+      213: 8196269041782872300
+    second: ArrowRain_38
+  - first:
+      213: -1900059609366152821
+    second: ArrowRain_39
+  - first:
+      213: -7297000062513225936
+    second: ArrowRain_40
+  - first:
+      213: -7040203142211554268
+    second: ArrowRain_41
+  - first:
+      213: -8014969210646325869
+    second: ArrowRain_42
+  - first:
+      213: -5568953974047162304
+    second: ArrowRain_43
+  - first:
+      213: 7516602551496708999
+    second: ArrowRain_44
+  - first:
+      213: -7929422690623477889
+    second: ArrowRain_45
+  - first:
+      213: -892426943775048886
+    second: ArrowRain_46
+  - first:
+      213: 295562461619449102
+    second: ArrowRain_47
+  - first:
+      213: -8359143730698111913
+    second: ArrowRain_48
+  - first:
+      213: 5143350441438875288
+    second: ArrowRain_49
+  - first:
+      213: 3252261439926183319
+    second: ArrowRain_50
+  - first:
+      213: 8394225413783405767
+    second: ArrowRain_51
+  - first:
+      213: -3092152006948047720
+    second: ArrowRain_52
+  - first:
+      213: -7330117532616759404
+    second: ArrowRain_53
+  - first:
+      213: -175925561812867025
+    second: ArrowRain_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowRain_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 77
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d64ca050851f280800000000000000
+      internalID: -9011324600712925858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 41
+        width: 141
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe11e6d8eebd850800000000000000
+      internalID: 6402973586441760749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 44
+        width: 592
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49a86998b5471b60800000000000000
+      internalID: 7716713145672706382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_3
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 23
+        width: 682
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8399208ea87f2350800000000000000
+      internalID: 5994142319923270542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_4
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 15
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a146e0ab30357120800000000000000
+      internalID: 2410886208187416999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_5
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 147
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8276272f9aa646200800000000000000
+      internalID: 172379963896522536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_6
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 177
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9c7de67f675c790800000000000000
+      internalID: -7510465998481798659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_7
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 143
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731300ef63632990800000000000000
+      internalID: -7411971229570886799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_8
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 175
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba11b9686d8bf9740800000000000000
+      internalID: 5161046929510699435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_9
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 187
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b533b3e0005b6d9c0800000000000000
+      internalID: -3902733015226567845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_10
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 179
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d6b007e13093f0800000000000000
+      internalID: -896161457627540991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_11
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 114
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea08d54b811292f0800000000000000
+      internalID: -967691680061322528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_12
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 17
+        width: 142
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780569543f2f2330800000000000000
+      internalID: 3688218521724323965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_13
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 87
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c4410fa348eb530800000000000000
+      internalID: 3872678118256036913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_14
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 87
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b7e012918c1c2b0800000000000000
+      internalID: -5565947654198887630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_15
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 37
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eebfbb396b7d780800000000000000
+      internalID: -8658251012966191588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_16
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 113
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6080c5930d58223c0800000000000000
+      internalID: -4385795957743417338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_17
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 57
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f0b5500fa473f70800000000000000
+      internalID: 9166877961278394118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_18
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 59
+        width: 35
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21b2c5284b9e2a90800000000000000
+      internalID: -7336756008766492371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_19
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 87
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ea562fe651ecb0800000000000000
+      internalID: -4836488939678538140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_20
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 36
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae47cc0ac4c90a810800000000000000
+      internalID: 1774590106113176810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_21
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 112
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f75a026bfc00700800000000000000
+      internalID: 504631539404210004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_22
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 60
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0179e08aec8fa90800000000000000
+      internalID: -7279841576449797966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_23
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 56
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c0c0f817cc2380800000000000000
+      internalID: -8994595445833415863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_24
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 102
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6cddaff8b17ed0800000000000000
+      internalID: -2417948116648170209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_25
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 58
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e201795742fd50800000000000000
+      internalID: 6769551639364953388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_26
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 78
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd54f63691e07cb90800000000000000
+      internalID: -7221787975260092965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_27
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 148
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fffb16be36a6b00800000000000000
+      internalID: 822579744556973852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_28
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 78
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6feabe5a0f0d5e80800000000000000
+      internalID: -8188372010276294801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_29
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 110
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f0a8cdd09737290800000000000000
+      internalID: -7893832621408776396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_30
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 54
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9379383df093033a0800000000000000
+      internalID: -6687782706509277383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_31
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 100
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e69460b7c008630800000000000000
+      internalID: 3927152597593058878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_32
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 53
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aa4e0e896f773b0800000000000000
+      internalID: -5514668082223338951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_33
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3272fa990081c0e10800000000000000
+      internalID: 2165131911715825443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_34
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 137
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba7a2cf8a48b7a0800000000000000
+      internalID: -6361252492354278403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_35
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 98
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abd98a3335cc4930800000000000000
+      internalID: 4128891782208019366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_36
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 101
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c07dc0b25897b960800000000000000
+      internalID: 7617724775641477317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_37
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 111
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b954d75614886020800000000000000
+      internalID: 2335261638289283505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_38
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 98
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8dffe844ffeb170800000000000000
+      internalID: 8196269041782872300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_39
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 34
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b9ab2ad1a1a5e0800000000000000
+      internalID: -1900059609366152821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_40
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 140
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f55e3ba19dbba90800000000000000
+      internalID: -7297000062513225936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_41
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 141
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42434e1fa8c2c4e90800000000000000
+      internalID: -7040203142211554268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_42
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 102
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959bb1d7fb15c090800000000000000
+      internalID: -8014969210646325869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_43
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 42
+        width: 274
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0404b6ebdd917b2b0800000000000000
+      internalID: -5568953974047162304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_44
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 32
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78391c72236505860800000000000000
+      internalID: 7516602551496708999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_45
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772773231805f190800000000000000
+      internalID: -7929422690623477889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_46
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bfc444c667d93f0800000000000000
+      internalID: -892426943775048886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_47
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 30
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d64cd2e7c0a1400800000000000000
+      internalID: 295562461619449102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_48
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 40
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7543e49c01b5efb80800000000000000
+      internalID: -8359143730698111913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_49
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 31
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0051d9f9d06740800000000000000
+      internalID: 5143350441438875288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_50
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79520836c8a522d20800000000000000
+      internalID: 3252261439926183319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_51
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 10
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4cd111a874e7470800000000000000
+      internalID: 8394225413783405767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_52
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 11
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894b952f1287615d0800000000000000
+      internalID: -3092152006948047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_53
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e382d0f0364a90800000000000000
+      internalID: -7330117532616759404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRain_54
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 8
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ab3532acfe8df0800000000000000
+      internalID: -175925561812867025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArrowRain_0: -9011324600712925858
+      ArrowRain_1: 6402973586441760749
+      ArrowRain_10: -896161457627540991
+      ArrowRain_11: -967691680061322528
+      ArrowRain_12: 3688218521724323965
+      ArrowRain_13: 3872678118256036913
+      ArrowRain_14: -5565947654198887630
+      ArrowRain_15: -8658251012966191588
+      ArrowRain_16: -4385795957743417338
+      ArrowRain_17: 9166877961278394118
+      ArrowRain_18: -7336756008766492371
+      ArrowRain_19: -4836488939678538140
+      ArrowRain_2: 7716713145672706382
+      ArrowRain_20: 1774590106113176810
+      ArrowRain_21: 504631539404210004
+      ArrowRain_22: -7279841576449797966
+      ArrowRain_23: -8994595445833415863
+      ArrowRain_24: -2417948116648170209
+      ArrowRain_25: 6769551639364953388
+      ArrowRain_26: -7221787975260092965
+      ArrowRain_27: 822579744556973852
+      ArrowRain_28: -8188372010276294801
+      ArrowRain_29: -7893832621408776396
+      ArrowRain_3: 5994142319923270542
+      ArrowRain_30: -6687782706509277383
+      ArrowRain_31: 3927152597593058878
+      ArrowRain_32: -5514668082223338951
+      ArrowRain_33: 2165131911715825443
+      ArrowRain_34: -6361252492354278403
+      ArrowRain_35: 4128891782208019366
+      ArrowRain_36: 7617724775641477317
+      ArrowRain_37: 2335261638289283505
+      ArrowRain_38: 8196269041782872300
+      ArrowRain_39: -1900059609366152821
+      ArrowRain_4: 2410886208187416999
+      ArrowRain_40: -7297000062513225936
+      ArrowRain_41: -7040203142211554268
+      ArrowRain_42: -8014969210646325869
+      ArrowRain_43: -5568953974047162304
+      ArrowRain_44: 7516602551496708999
+      ArrowRain_45: -7929422690623477889
+      ArrowRain_46: -892426943775048886
+      ArrowRain_47: 295562461619449102
+      ArrowRain_48: -8359143730698111913
+      ArrowRain_49: 5143350441438875288
+      ArrowRain_5: 172379963896522536
+      ArrowRain_50: 3252261439926183319
+      ArrowRain_51: 8394225413783405767
+      ArrowRain_52: -3092152006948047720
+      ArrowRain_53: -7330117532616759404
+      ArrowRain_54: -175925561812867025
+      ArrowRain_6: -7510465998481798659
+      ArrowRain_7: -7411971229570886799
+      ArrowRain_8: 5161046929510699435
+      ArrowRain_9: -3902733015226567845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

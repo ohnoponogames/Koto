@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 1ebfb65608335674f9768426b74d9459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7526226505758096522
+    second: SphereAoe_0
+  - first:
+      213: 4334999858380279361
+    second: SphereAoe_1
+  - first:
+      213: 9214096084128390139
+    second: SphereAoe_2
+  - first:
+      213: 4724375534358121638
+    second: SphereAoe_3
+  - first:
+      213: -1408186324061394204
+    second: SphereAoe_4
+  - first:
+      213: -1260388230419145207
+    second: SphereAoe_5
+  - first:
+      213: 5093241575745366537
+    second: SphereAoe_6
+  - first:
+      213: -7824808866749644573
+    second: SphereAoe_7
+  - first:
+      213: 2399610951732368672
+    second: SphereAoe_8
+  - first:
+      213: -3420533215010224223
+    second: SphereAoe_9
+  - first:
+      213: 5173036609740006330
+    second: SphereAoe_10
+  - first:
+      213: -5169930443982278574
+    second: SphereAoe_11
+  - first:
+      213: -6836046577688414232
+    second: SphereAoe_12
+  - first:
+      213: -4314803427728115493
+    second: SphereAoe_13
+  - first:
+      213: 2547599347061706927
+    second: SphereAoe_14
+  - first:
+      213: -5920764975268304431
+    second: SphereAoe_15
+  - first:
+      213: -3684426034424568795
+    second: SphereAoe_16
+  - first:
+      213: 3405545445640407005
+    second: SphereAoe_17
+  - first:
+      213: 2053875911269580576
+    second: SphereAoe_18
+  - first:
+      213: 8196458863606128663
+    second: SphereAoe_19
+  - first:
+      213: 2877022406282962977
+    second: SphereAoe_20
+  - first:
+      213: -1896718147658694987
+    second: SphereAoe_21
+  - first:
+      213: 6354965187909435886
+    second: SphereAoe_22
+  - first:
+      213: 4228758105715977516
+    second: SphereAoe_23
+  - first:
+      213: 4272137584781137879
+    second: SphereAoe_24
+  - first:
+      213: 1522547561857047329
+    second: SphereAoe_25
+  - first:
+      213: -662702025305700728
+    second: SphereAoe_26
+  - first:
+      213: -8387227011578299543
+    second: SphereAoe_27
+  - first:
+      213: -1130780465211737128
+    second: SphereAoe_28
+  - first:
+      213: -4002409046126246925
+    second: SphereAoe_29
+  - first:
+      213: -3494663688987023970
+    second: SphereAoe_30
+  - first:
+      213: 5258087527565486517
+    second: SphereAoe_31
+  - first:
+      213: 1955968708414003967
+    second: SphereAoe_32
+  - first:
+      213: 5819899606124897670
+    second: SphereAoe_33
+  - first:
+      213: -4589350791469208187
+    second: SphereAoe_34
+  - first:
+      213: 471904111278391942
+    second: SphereAoe_35
+  - first:
+      213: 1244716889675330686
+    second: SphereAoe_36
+  - first:
+      213: 5077865861963637385
+    second: SphereAoe_37
+  - first:
+      213: -4630358612759556218
+    second: SphereAoe_38
+  - first:
+      213: 7691829537094245215
+    second: SphereAoe_39
+  - first:
+      213: -312315370177094826
+    second: SphereAoe_40
+  - first:
+      213: -6664348715749729131
+    second: SphereAoe_41
+  - first:
+      213: 2290916703332297821
+    second: SphereAoe_42
+  - first:
+      213: 1009720807972295758
+    second: SphereAoe_43
+  - first:
+      213: -4260505820360100112
+    second: SphereAoe_44
+  - first:
+      213: -6547967560706373327
+    second: SphereAoe_45
+  - first:
+      213: -6496580843549526602
+    second: SphereAoe_46
+  - first:
+      213: -8771674573952106707
+    second: SphereAoe_47
+  - first:
+      213: -7428978567037153401
+    second: SphereAoe_48
+  - first:
+      213: -1005020890739279376
+    second: SphereAoe_49
+  - first:
+      213: 5949331105794209962
+    second: SphereAoe_50
+  - first:
+      213: 1192771774739044726
+    second: SphereAoe_51
+  - first:
+      213: -6334316049169244245
+    second: SphereAoe_52
+  - first:
+      213: -1396195273696277560
+    second: SphereAoe_53
+  - first:
+      213: 8742324270357713527
+    second: SphereAoe_54
+  - first:
+      213: -8827628494418566130
+    second: SphereAoe_55
+  - first:
+      213: 5712900080752090634
+    second: SphereAoe_56
+  - first:
+      213: 1763884277603060632
+    second: SphereAoe_57
+  - first:
+      213: -3044418556775571942
+    second: SphereAoe_58
+  - first:
+      213: 7505486588094352224
+    second: SphereAoe_59
+  - first:
+      213: -1186604699367002488
+    second: SphereAoe_60
+  - first:
+      213: -3697399725473548613
+    second: SphereAoe_61
+  - first:
+      213: -2733089272480100203
+    second: SphereAoe_62
+  - first:
+      213: 7317285195813961593
+    second: SphereAoe_63
+  - first:
+      213: 3691127853585616784
+    second: SphereAoe_64
+  - first:
+      213: 525341158944327592
+    second: SphereAoe_65
+  - first:
+      213: -2500735421168224532
+    second: SphereAoe_66
+  - first:
+      213: 400376005494023413
+    second: SphereAoe_67
+  - first:
+      213: 729791185328996686
+    second: SphereAoe_68
+  - first:
+      213: -3833763006780715757
+    second: SphereAoe_69
+  - first:
+      213: 6057304296810617580
+    second: SphereAoe_70
+  - first:
+      213: 5727643872536533609
+    second: SphereAoe_71
+  - first:
+      213: -1345910861622515317
+    second: SphereAoe_72
+  - first:
+      213: -8990318193910110281
+    second: SphereAoe_73
+  - first:
+      213: 3360198177453883069
+    second: SphereAoe_74
+  - first:
+      213: -3523015797374407213
+    second: SphereAoe_75
+  - first:
+      213: 4425599165779824428
+    second: SphereAoe_76
+  - first:
+      213: -6425647205114217574
+    second: SphereAoe_77
+  - first:
+      213: -3200573108652010263
+    second: SphereAoe_78
+  - first:
+      213: -4895718607178460866
+    second: SphereAoe_79
+  - first:
+      213: -4908536441419317419
+    second: SphereAoe_80
+  - first:
+      213: 1505281465924420496
+    second: SphereAoe_81
+  - first:
+      213: -2711358008977729360
+    second: SphereAoe_82
+  - first:
+      213: 8336147505675368371
+    second: SphereAoe_83
+  - first:
+      213: 3961702807808085685
+    second: SphereAoe_84
+  - first:
+      213: -2034482418347490748
+    second: SphereAoe_85
+  - first:
+      213: -1640452930549810975
+    second: SphereAoe_86
+  - first:
+      213: 5782972813346591427
+    second: SphereAoe_87
+  - first:
+      213: 7849947354026451588
+    second: SphereAoe_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SphereAoe_0
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 86
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c37de9127827860800000000000000
+      internalID: 7526226505758096522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_1
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 85
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e00244763092c30800000000000000
+      internalID: 4334999858380279361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_2
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 85
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb5ac4f19b0fdf70800000000000000
+      internalID: 9214096084128390139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_3
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 221
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac46f6848a509140800000000000000
+      internalID: 4724375534358121638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_4
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 210
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eae1c8cffd157ce0800000000000000
+      internalID: -1408186324061394204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_5
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 229
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e98ce0593328ee0800000000000000
+      internalID: -1260388230419145207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_6
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aad8d5a34dea640800000000000000
+      internalID: 5093241575745366537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_7
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08f061bc1b86390800000000000000
+      internalID: -7824808866749644573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_8
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 224
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025152962712d4120800000000000000
+      internalID: 2399610951732368672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_9
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 223
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a704e8e923d780d0800000000000000
+      internalID: -3420533215010224223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_10
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 223
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e4ad73615ac740800000000000000
+      internalID: 5173036609740006330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_11
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 84
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25075f417a7b048b0800000000000000
+      internalID: -5169930443982278574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_12
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 207
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e77bd44bdb7121a0800000000000000
+      internalID: -6836046577688414232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 214
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b0aea42dbe14c0800000000000000
+      internalID: -4314803427728115493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_14
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 218
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa051afbb14ea5320800000000000000
+      internalID: 2547599347061706927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_15
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 83
+        width: 36
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9ee82ef9735dda0800000000000000
+      internalID: -5920764975268304431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_16
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 201
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5242ce8ea0a4edcc0800000000000000
+      internalID: -3684426034424568795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_17
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 221
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd788d91a8de24f20800000000000000
+      internalID: 3405545445640407005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_18
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 213
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f74f76245d08c10800000000000000
+      internalID: 2053875911269580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_19
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 220
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106855e8ebafb170800000000000000
+      internalID: 8196458863606128663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_20
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 213
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128e559a2ac3de720800000000000000
+      internalID: 2877022406282962977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_21
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 187
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be34c9d4e08da5e0800000000000000
+      internalID: -1896718147658694987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_22
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 195
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1c0591b2f513850800000000000000
+      internalID: 6354965187909435886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_23
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 197
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d214c97119faa30800000000000000
+      internalID: 4228758105715977516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_24
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 191
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d79974af7ea94b30800000000000000
+      internalID: 4272137584781137879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_25
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 200
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b5022d0fc212510800000000000000
+      internalID: 1522547561857047329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_26
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 196
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c8b5e40c9dc6f0800000000000000
+      internalID: -662702025305700728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_27
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b705c68759a9b80800000000000000
+      internalID: -8387227011578299543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_28
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 146
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db7a147829ae40f0800000000000000
+      internalID: -1130780465211737128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_29
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 195
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c5df9d269478c0800000000000000
+      internalID: -4002409046126246925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_30
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e870f3e5708fc0800000000000000
+      internalID: -3494663688987023970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_31
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 198
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9e37e6fba78f840800000000000000
+      internalID: 5258087527565486517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_32
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 188
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffadbc85d2ff42b10800000000000000
+      internalID: 1955968708414003967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_33
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 204
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a28b4bdf64c050800000000000000
+      internalID: 5819899606124897670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_34
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de1d445c95f40c0800000000000000
+      internalID: -4589350791469208187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_35
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 198
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828bc8f94a8c8600800000000000000
+      internalID: 471904111278391942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_36
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 192
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f6079a6f164110800000000000000
+      internalID: 1244716889675330686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_37
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 206
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982ec670914387640800000000000000
+      internalID: 5077865861963637385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_38
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 167
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fcbc7df59adbfb0800000000000000
+      internalID: -4630358612759556218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_39
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 199
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1c5ff53edeba60800000000000000
+      internalID: 7691829537094245215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_40
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b13b653de6aabf0800000000000000
+      internalID: -312315370177094826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_41
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 106
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c186af62a7383a0800000000000000
+      internalID: -6664348715749729131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_42
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 106
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c61289a98facf10800000000000000
+      internalID: 2290916703332297821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_43
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 106
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445281a9bf330e00800000000000000
+      internalID: 1009720807972295758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_44
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 126
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b3fd8784afd4c0800000000000000
+      internalID: -4260505820360100112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_45
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 167
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139c0573232f025a0800000000000000
+      internalID: -6547967560706373327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_46
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 154
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57f95a42287d5a0800000000000000
+      internalID: -6496580843549526602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_47
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 99
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f32460370c44680800000000000000
+      internalID: -8771674573952106707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_48
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 179
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f82cb8a57f6e890800000000000000
+      internalID: -7428978567037153401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_49
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 151
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f973af13d27d02f0800000000000000
+      internalID: -1005020890739279376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_50
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 84
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8bb0cae15409250800000000000000
+      internalID: 5949331105794209962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_51
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 159
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679de6b0c939d8010800000000000000
+      internalID: 1192771774739044726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_52
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 170
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf163a2d1df718a0800000000000000
+      internalID: -6334316049169244245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_53
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 149
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb0142cbc7bf9ce0800000000000000
+      internalID: -1396195273696277560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_54
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 179
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77292f5ea99f25970800000000000000
+      internalID: 8742324270357713527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_55
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 104
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a015b7a6fd7580800000000000000
+      internalID: -8827628494418566130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_56
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e578eea5c484f40800000000000000
+      internalID: 5712900080752090634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_57
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 175
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b4d6fa7639a7810800000000000000
+      internalID: 1763884277603060632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_58
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 179
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed8cfd37d00c5d0800000000000000
+      internalID: -3044418556775571942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_59
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 141
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b82dd3948d82860800000000000000
+      internalID: 7505486588094352224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_60
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 153
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eab651055588fe0800000000000000
+      internalID: -1186604699367002488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_61
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 150
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b5821a8230bcc0800000000000000
+      internalID: -3697399725473548613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_62
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 161
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590946689cd121ad0800000000000000
+      internalID: -2733089272480100203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_63
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 150
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f37b0fd183c8560800000000000000
+      internalID: 7317285195813961593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_64
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 171
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f4585f935893330800000000000000
+      internalID: 3691127853585616784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_65
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 140
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c4cc20036a4700800000000000000
+      internalID: 525341158944327592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_66
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 180
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f708426a9b4dd0800000000000000
+      internalID: -2500735421168224532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 119
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4af001bdb6e8500800000000000000
+      internalID: 400376005494023413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_68
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 119
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e410fb9673db02a00800000000000000
+      internalID: 729791185328996686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_69
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 119
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d4dc38bdcbbcac0800000000000000
+      internalID: -3833763006780715757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_70
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 110
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea18db3a2edf0450800000000000000
+      internalID: 6057304296810617580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_71
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a9b7671cdac7f40800000000000000
+      internalID: 5727643872536533609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_72
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 114
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8966a9c33d525de0800000000000000
+      internalID: -1345910861622515317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_73
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 129
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a1424c39fb3380800000000000000
+      internalID: -8990318193910110281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_74
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 120
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbebd067072d1ae20800000000000000
+      internalID: 3360198177453883069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_75
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 94
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda86b4ccbbb1fc0800000000000000
+      internalID: -3523015797374407213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_76
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f42925ef2ea6d30800000000000000
+      internalID: 4425599165779824428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_77
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b7f2759e383d6a0800000000000000
+      internalID: -6425647205114217574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_78
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 92
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4112d07b74593d0800000000000000
+      internalID: -3200573108652010263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_79
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 92
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319bda8dd9ee0cb0800000000000000
+      internalID: -4895718607178460866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_80
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 93
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3422fc1061ebb0800000000000000
+      internalID: -4908536441419317419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_81
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09387679485d3e410800000000000000
+      internalID: 1505281465924420496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_82
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d8f791425f5ad0800000000000000
+      internalID: -2711358008977729360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_83
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 86
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7f9075df1ffa370800000000000000
+      internalID: 8336147505675368371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_84
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be8115b6bbcaf630800000000000000
+      internalID: 3961702807808085685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_85
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 83
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ce98050114c3e0800000000000000
+      internalID: -2034482418347490748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_86
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e874db40c0fb39e0800000000000000
+      internalID: -1640452930549810975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_87
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2d34d522f314050800000000000000
+      internalID: 5782972813346591427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SphereAoe_88
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 90
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a346178d90fc60800000000000000
+      internalID: 7849947354026451588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SphereAoe_0: 7526226505758096522
+      SphereAoe_1: 4334999858380279361
+      SphereAoe_10: 5173036609740006330
+      SphereAoe_11: -5169930443982278574
+      SphereAoe_12: -6836046577688414232
+      SphereAoe_13: -4314803427728115493
+      SphereAoe_14: 2547599347061706927
+      SphereAoe_15: -5920764975268304431
+      SphereAoe_16: -3684426034424568795
+      SphereAoe_17: 3405545445640407005
+      SphereAoe_18: 2053875911269580576
+      SphereAoe_19: 8196458863606128663
+      SphereAoe_2: 9214096084128390139
+      SphereAoe_20: 2877022406282962977
+      SphereAoe_21: -1896718147658694987
+      SphereAoe_22: 6354965187909435886
+      SphereAoe_23: 4228758105715977516
+      SphereAoe_24: 4272137584781137879
+      SphereAoe_25: 1522547561857047329
+      SphereAoe_26: -662702025305700728
+      SphereAoe_27: -8387227011578299543
+      SphereAoe_28: -1130780465211737128
+      SphereAoe_29: -4002409046126246925
+      SphereAoe_3: 4724375534358121638
+      SphereAoe_30: -3494663688987023970
+      SphereAoe_31: 5258087527565486517
+      SphereAoe_32: 1955968708414003967
+      SphereAoe_33: 5819899606124897670
+      SphereAoe_34: -4589350791469208187
+      SphereAoe_35: 471904111278391942
+      SphereAoe_36: 1244716889675330686
+      SphereAoe_37: 5077865861963637385
+      SphereAoe_38: -4630358612759556218
+      SphereAoe_39: 7691829537094245215
+      SphereAoe_4: -1408186324061394204
+      SphereAoe_40: -312315370177094826
+      SphereAoe_41: -6664348715749729131
+      SphereAoe_42: 2290916703332297821
+      SphereAoe_43: 1009720807972295758
+      SphereAoe_44: -4260505820360100112
+      SphereAoe_45: -6547967560706373327
+      SphereAoe_46: -6496580843549526602
+      SphereAoe_47: -8771674573952106707
+      SphereAoe_48: -7428978567037153401
+      SphereAoe_49: -1005020890739279376
+      SphereAoe_5: -1260388230419145207
+      SphereAoe_50: 5949331105794209962
+      SphereAoe_51: 1192771774739044726
+      SphereAoe_52: -6334316049169244245
+      SphereAoe_53: -1396195273696277560
+      SphereAoe_54: 8742324270357713527
+      SphereAoe_55: -8827628494418566130
+      SphereAoe_56: 5712900080752090634
+      SphereAoe_57: 1763884277603060632
+      SphereAoe_58: -3044418556775571942
+      SphereAoe_59: 7505486588094352224
+      SphereAoe_6: 5093241575745366537
+      SphereAoe_60: -1186604699367002488
+      SphereAoe_61: -3697399725473548613
+      SphereAoe_62: -2733089272480100203
+      SphereAoe_63: 7317285195813961593
+      SphereAoe_64: 3691127853585616784
+      SphereAoe_65: 525341158944327592
+      SphereAoe_66: -2500735421168224532
+      SphereAoe_67: 400376005494023413
+      SphereAoe_68: 729791185328996686
+      SphereAoe_69: -3833763006780715757
+      SphereAoe_7: -7824808866749644573
+      SphereAoe_70: 6057304296810617580
+      SphereAoe_71: 5727643872536533609
+      SphereAoe_72: -1345910861622515317
+      SphereAoe_73: -8990318193910110281
+      SphereAoe_74: 3360198177453883069
+      SphereAoe_75: -3523015797374407213
+      SphereAoe_76: 4425599165779824428
+      SphereAoe_77: -6425647205114217574
+      SphereAoe_78: -3200573108652010263
+      SphereAoe_79: -4895718607178460866
+      SphereAoe_8: 2399610951732368672
+      SphereAoe_80: -4908536441419317419
+      SphereAoe_81: 1505281465924420496
+      SphereAoe_82: -2711358008977729360
+      SphereAoe_83: 8336147505675368371
+      SphereAoe_84: 3961702807808085685
+      SphereAoe_85: -2034482418347490748
+      SphereAoe_86: -1640452930549810975
+      SphereAoe_87: 5782972813346591427
+      SphereAoe_88: 7849947354026451588
+      SphereAoe_9: -3420533215010224223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

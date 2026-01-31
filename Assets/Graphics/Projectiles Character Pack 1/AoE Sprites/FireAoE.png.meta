@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 9ed96cabf242c334c91c51a327eaead0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3352046704332200404
+    second: FireAoE_0
+  - first:
+      213: 204200477879883997
+    second: FireAoE_1
+  - first:
+      213: 8967496173289314664
+    second: FireAoE_2
+  - first:
+      213: -1266044124044714336
+    second: FireAoE_3
+  - first:
+      213: 7001416582106733423
+    second: FireAoE_4
+  - first:
+      213: -6667503189594701293
+    second: FireAoE_5
+  - first:
+      213: -8622460121313999246
+    second: FireAoE_6
+  - first:
+      213: 6751136762635185986
+    second: FireAoE_7
+  - first:
+      213: -4297042058973534322
+    second: FireAoE_8
+  - first:
+      213: 9105212603465419047
+    second: FireAoE_9
+  - first:
+      213: -6659534918453057112
+    second: FireAoE_10
+  - first:
+      213: 3827832011974645539
+    second: FireAoE_11
+  - first:
+      213: 5200091852915165107
+    second: FireAoE_12
+  - first:
+      213: 5134629673449321832
+    second: FireAoE_13
+  - first:
+      213: -4953600465040050498
+    second: FireAoE_14
+  - first:
+      213: 4638687146596481873
+    second: FireAoE_15
+  - first:
+      213: 4262258196237469309
+    second: FireAoE_16
+  - first:
+      213: 7912579041438129753
+    second: FireAoE_17
+  - first:
+      213: -32113334490720853
+    second: FireAoE_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireAoE_0
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 179
+        width: 204
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26a2c548432b71d0800000000000000
+      internalID: -3352046704332200404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_1
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 153
+        width: 274
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8def2b04775d200800000000000000
+      internalID: 204200477879883997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_2
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 129
+        width: 342
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869959df142f27c70800000000000000
+      internalID: 8967496173289314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_3
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 109
+        width: 398
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae1854b39b1e6ee0800000000000000
+      internalID: -1266044124044714336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_4
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 93
+        width: 440
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b500d49470a2160800000000000000
+      internalID: 7001416582106733423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_5
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 85
+        width: 464
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3128c6dcc254873a0800000000000000
+      internalID: -6667503189594701293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_6
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 86
+        width: 468
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2768b13143ed65880800000000000000
+      internalID: -8622460121313999246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_7
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 93
+        width: 442
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f63f6dd1bd0bd50800000000000000
+      internalID: 6751136762635185986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_8
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 109
+        width: 396
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8728f99307dd54c0800000000000000
+      internalID: -4297042058973534322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_9
+      rect:
+        serializedVersion: 2
+        x: 6774
+        y: 153
+        width: 276
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72947f11f963c5e70800000000000000
+      internalID: 9105212603465419047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_10
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 328
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9ab4086449493a0800000000000000
+      internalID: -6659534918453057112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_11
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 328
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271e952fe03f1530800000000000000
+      internalID: 3827832011974645539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 242
+        width: 527
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7496c2dff6a2840800000000000000
+      internalID: 5200091852915165107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_13
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 227
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865702bcb7ed14740800000000000000
+      internalID: 5134629673449321832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_14
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 204
+        width: 136
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6f3125f96414bb0800000000000000
+      internalID: -4953600465040050498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_15
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 246
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbd0d026def5040800000000000000
+      internalID: 4638687146596481873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_16
+      rect:
+        serializedVersion: 2
+        x: 7024
+        y: 246
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d764bbf3f35962b30800000000000000
+      internalID: 4262258196237469309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_17
+      rect:
+        serializedVersion: 2
+        x: 5837
+        y: 91
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ede1e27b02fcd60800000000000000
+      internalID: 7912579041438129753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAoE_18
+      rect:
+        serializedVersion: 2
+        x: 5931
+        y: 91
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59029a719ed8ff0800000000000000
+      internalID: -32113334490720853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireAoE_0: -3352046704332200404
+      FireAoE_1: 204200477879883997
+      FireAoE_10: -6659534918453057112
+      FireAoE_11: 3827832011974645539
+      FireAoE_12: 5200091852915165107
+      FireAoE_13: 5134629673449321832
+      FireAoE_14: -4953600465040050498
+      FireAoE_15: 4638687146596481873
+      FireAoE_16: 4262258196237469309
+      FireAoE_17: 7912579041438129753
+      FireAoE_18: -32113334490720853
+      FireAoE_2: 8967496173289314664
+      FireAoE_3: -1266044124044714336
+      FireAoE_4: 7001416582106733423
+      FireAoE_5: -6667503189594701293
+      FireAoE_6: -8622460121313999246
+      FireAoE_7: 6751136762635185986
+      FireAoE_8: -4297042058973534322
+      FireAoE_9: 9105212603465419047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

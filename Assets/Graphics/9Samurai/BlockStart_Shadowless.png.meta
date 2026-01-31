@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: c46597bd917502c4091cebdef29e162d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7464124435946323754
+    second: BlockStart_Shadowless_0
+  - first:
+      213: -5503661101888964104
+    second: BlockStart_Shadowless_1
+  - first:
+      213: 8457959362976390663
+    second: BlockStart_Shadowless_2
+  - first:
+      213: 2312797274732311051
+    second: BlockStart_Shadowless_3
+  - first:
+      213: 4012079602495182020
+    second: BlockStart_Shadowless_4
+  - first:
+      213: -6503576405851146271
+    second: BlockStart_Shadowless_5
+  - first:
+      213: 9012287289451852841
+    second: BlockStart_Shadowless_6
+  - first:
+      213: 8760923212328795230
+    second: BlockStart_Shadowless_7
+  - first:
+      213: 4487188433493865558
+    second: BlockStart_Shadowless_8
+  - first:
+      213: 1281089449151447211
+    second: BlockStart_Shadowless_9
+  - first:
+      213: -6899605922190305726
+    second: BlockStart_Shadowless_10
+  - first:
+      213: -4588871693315030945
+    second: BlockStart_Shadowless_11
+  - first:
+      213: 5372708641063327150
+    second: BlockStart_Shadowless_12
+  - first:
+      213: 5097186480127317167
+    second: BlockStart_Shadowless_13
+  - first:
+      213: 6399532944646500578
+    second: BlockStart_Shadowless_14
+  - first:
+      213: 9057475313242390031
+    second: BlockStart_Shadowless_15
+  - first:
+      213: 4202850558864959673
+    second: BlockStart_Shadowless_16
+  - first:
+      213: 1039733022522808350
+    second: BlockStart_Shadowless_17
+  - first:
+      213: 590571383853775851
+    second: BlockStart_Shadowless_18
+  - first:
+      213: -7942143297264497534
+    second: BlockStart_Shadowless_19
+  - first:
+      213: -654371486947021027
+    second: BlockStart_Shadowless_20
+  - first:
+      213: 8791208987747763276
+    second: BlockStart_Shadowless_21
+  - first:
+      213: 482472406274833521
+    second: BlockStart_Shadowless_22
+  - first:
+      213: -2314172802171104479
+    second: BlockStart_Shadowless_23
+  - first:
+      213: 4191122584039807650
+    second: BlockStart_Shadowless_24
+  - first:
+      213: -1796976356264044524
+    second: BlockStart_Shadowless_25
+  - first:
+      213: 8817393717875261015
+    second: BlockStart_Shadowless_26
+  - first:
+      213: -6743016058866636340
+    second: BlockStart_Shadowless_27
+  - first:
+      213: -8892078010038022664
+    second: BlockStart_Shadowless_28
+  - first:
+      213: 1534999203356415304
+    second: BlockStart_Shadowless_29
+  - first:
+      213: 7541996177931005260
+    second: BlockStart_Shadowless_30
+  - first:
+      213: -1842191602164963151
+    second: BlockStart_Shadowless_31
+  - first:
+      213: 4171655672693189431
+    second: BlockStart_Shadowless_32
+  - first:
+      213: -5510864805751854517
+    second: BlockStart_Shadowless_33
+  - first:
+      213: 1571107797765753348
+    second: BlockStart_Shadowless_34
+  - first:
+      213: -7789243787141855229
+    second: BlockStart_Shadowless_35
+  - first:
+      213: 7430678077149445258
+    second: BlockStart_Shadowless_36
+  - first:
+      213: -5180191159476268609
+    second: BlockStart_Shadowless_37
+  - first:
+      213: 5765334166865111631
+    second: BlockStart_Shadowless_38
+  - first:
+      213: -7506264774669357974
+    second: BlockStart_Shadowless_39
+  - first:
+      213: 9054536710311348134
+    second: BlockStart_Shadowless_40
+  - first:
+      213: 3654797472003015291
+    second: BlockStart_Shadowless_41
+  - first:
+      213: -417128792765220830
+    second: BlockStart_Shadowless_42
+  - first:
+      213: -3775463775039257546
+    second: BlockStart_Shadowless_43
+  - first:
+      213: -4174757879317678375
+    second: BlockStart_Shadowless_44
+  - first:
+      213: -5110059281083500750
+    second: BlockStart_Shadowless_45
+  - first:
+      213: 6072110363719278781
+    second: BlockStart_Shadowless_46
+  - first:
+      213: 7861680003420750948
+    second: BlockStart_Shadowless_47
+  - first:
+      213: 8121569849349688292
+    second: BlockStart_Shadowless_48
+  - first:
+      213: 1485072541120006746
+    second: BlockStart_Shadowless_49
+  - first:
+      213: 6061316829479438517
+    second: BlockStart_Shadowless_50
+  - first:
+      213: -8655277410290502009
+    second: BlockStart_Shadowless_51
+  - first:
+      213: 8953288970437674918
+    second: BlockStart_Shadowless_52
+  - first:
+      213: -2029922539581242679
+    second: BlockStart_Shadowless_53
+  - first:
+      213: -7416369775689603071
+    second: BlockStart_Shadowless_54
+  - first:
+      213: -4043611646105869282
+    second: BlockStart_Shadowless_55
+  - first:
+      213: 1107215316114366009
+    second: BlockStart_Shadowless_56
+  - first:
+      213: -3980140432120012541
+    second: BlockStart_Shadowless_57
+  - first:
+      213: 8845017928651475276
+    second: BlockStart_Shadowless_58
+  - first:
+      213: 164079877322128479
+    second: BlockStart_Shadowless_59
+  - first:
+      213: 8827705625127020025
+    second: BlockStart_Shadowless_60
+  - first:
+      213: 3856542819266362526
+    second: BlockStart_Shadowless_61
+  - first:
+      213: -4041386731882542053
+    second: BlockStart_Shadowless_62
+  - first:
+      213: 7803903154050444960
+    second: BlockStart_Shadowless_63
+  - first:
+      213: -3391542804841812392
+    second: BlockStart_Shadowless_64
+  - first:
+      213: 3785636461298039020
+    second: BlockStart_Shadowless_65
+  - first:
+      213: 1415309951005371710
+    second: BlockStart_Shadowless_66
+  - first:
+      213: -3528622701406618651
+    second: BlockStart_Shadowless_67
+  - first:
+      213: -5005724543479987382
+    second: BlockStart_Shadowless_68
+  - first:
+      213: 2339622917697313889
+    second: BlockStart_Shadowless_69
+  - first:
+      213: 1773676962892727752
+    second: BlockStart_Shadowless_70
+  - first:
+      213: -8290939649943083461
+    second: BlockStart_Shadowless_71
+  - first:
+      213: -3734845180577138385
+    second: BlockStart_Shadowless_72
+  - first:
+      213: -2681438908002752113
+    second: BlockStart_Shadowless_73
+  - first:
+      213: -8478534809694093994
+    second: BlockStart_Shadowless_74
+  - first:
+      213: 8316375265016834445
+    second: BlockStart_Shadowless_75
+  - first:
+      213: -5563854991123407257
+    second: BlockStart_Shadowless_76
+  - first:
+      213: -7380075450946712613
+    second: BlockStart_Shadowless_77
+  - first:
+      213: 3956188399703968577
+    second: BlockStart_Shadowless_78
+  - first:
+      213: 4837477575419101172
+    second: BlockStart_Shadowless_79
+  - first:
+      213: 9128148453899177880
+    second: BlockStart_Shadowless_80
+  - first:
+      213: -28677701059710954
+    second: BlockStart_Shadowless_81
+  - first:
+      213: 3965529755289079164
+    second: BlockStart_Shadowless_82
+  - first:
+      213: -5061202320339909058
+    second: BlockStart_Shadowless_83
+  - first:
+      213: 3607538689061874515
+    second: BlockStart_Shadowless_84
+  - first:
+      213: -4300327075884569926
+    second: BlockStart_Shadowless_85
+  - first:
+      213: 3056555595315250777
+    second: BlockStart_Shadowless_86
+  - first:
+      213: -7109207031358049540
+    second: BlockStart_Shadowless_87
+  - first:
+      213: -1451472353421189834
+    second: BlockStart_Shadowless_88
+  - first:
+      213: -5138513646486866845
+    second: BlockStart_Shadowless_89
+  - first:
+      213: -5319158689924479433
+    second: BlockStart_Shadowless_90
+  - first:
+      213: -7191607593006993012
+    second: BlockStart_Shadowless_91
+  - first:
+      213: 3430982687960045776
+    second: BlockStart_Shadowless_92
+  - first:
+      213: 8172145114721686301
+    second: BlockStart_Shadowless_93
+  - first:
+      213: -4391883050250743391
+    second: BlockStart_Shadowless_94
+  - first:
+      213: -2317182620618476877
+    second: BlockStart_Shadowless_95
+  - first:
+      213: 4635206866266947511
+    second: BlockStart_Shadowless_96
+  - first:
+      213: -4722841420387746829
+    second: BlockStart_Shadowless_97
+  - first:
+      213: 6645007056307597585
+    second: BlockStart_Shadowless_98
+  - first:
+      213: 4374762500421006324
+    second: BlockStart_Shadowless_99
+  - first:
+      213: 8189787342863780798
+    second: BlockStart_Shadowless_100
+  - first:
+      213: 3754789216940475330
+    second: BlockStart_Shadowless_101
+  - first:
+      213: 5520143634162104422
+    second: BlockStart_Shadowless_102
+  - first:
+      213: 6710768007840804818
+    second: BlockStart_Shadowless_103
+  - first:
+      213: -1934363387845300971
+    second: BlockStart_Shadowless_104
+  - first:
+      213: 8413391923957506215
+    second: BlockStart_Shadowless_105
+  - first:
+      213: 5781165007533176717
+    second: BlockStart_Shadowless_106
+  - first:
+      213: -5129701733765833132
+    second: BlockStart_Shadowless_107
+  - first:
+      213: 3355697580117760196
+    second: BlockStart_Shadowless_108
+  - first:
+      213: 5956846960916399599
+    second: BlockStart_Shadowless_109
+  - first:
+      213: -2719633957587881950
+    second: BlockStart_Shadowless_110
+  - first:
+      213: -1933813745806428929
+    second: BlockStart_Shadowless_111
+  - first:
+      213: 4196267271264628257
+    second: BlockStart_Shadowless_112
+  - first:
+      213: -3677625881794487025
+    second: BlockStart_Shadowless_113
+  - first:
+      213: 4468581503331530690
+    second: BlockStart_Shadowless_114
+  - first:
+      213: 6294861526300063033
+    second: BlockStart_Shadowless_115
+  - first:
+      213: 5338918462170788995
+    second: BlockStart_Shadowless_116
+  - first:
+      213: -2516818679824731040
+    second: BlockStart_Shadowless_117
+  - first:
+      213: -9103579246984598533
+    second: BlockStart_Shadowless_118
+  - first:
+      213: 7613298640803988438
+    second: BlockStart_Shadowless_119
+  - first:
+      213: 6205531739121820074
+    second: BlockStart_Shadowless_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 468
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04b144f5a1a6890800000000000000
+      internalID: -7464124435946323754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 468
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f5c133611f93b0800000000000000
+      internalID: -5503661101888964104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 468
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e95ea7a35b06570800000000000000
+      internalID: 8457959362976390663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 468
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0239ed1ed4b81020800000000000000
+      internalID: 2312797274732311051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 468
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d05d3425cda730800000000000000
+      internalID: 4012079602495182020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 468
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e771af57b7aeb5a0800000000000000
+      internalID: -6503576405851146271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bb856a83121d70800000000000000
+      internalID: 9012287289451852841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf4578e3d059970800000000000000
+      internalID: 8760923212328795230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 468
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654b4aa2b12b54e30800000000000000
+      internalID: 4487188433493865558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 468
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04c26011857c110800000000000000
+      internalID: 1281089449151447211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2465aad28fcaf30a0800000000000000
+      internalID: -6899605922190305726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50cc10028d0150c0800000000000000
+      internalID: -4588871693315030945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea550401b02bf8a40800000000000000
+      internalID: 5372708641063327150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa499edf818dcb640800000000000000
+      internalID: 5097186480127317167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e070169e45bfc850800000000000000
+      internalID: 6399532944646500578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ebeaf0fcd92bd70800000000000000
+      internalID: 9057475313242390031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 404
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a23dc056835a30800000000000000
+      internalID: 4202850558864959673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 404
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1817bcdcafdd6e00800000000000000
+      internalID: 1039733022522808350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 404
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb7d1d6b81223800800000000000000
+      internalID: 590571383853775851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 404
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ccc4b10c6d7c190800000000000000
+      internalID: -7942143297264497534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fe06189943be6f0800000000000000
+      internalID: -654371486947021027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 404
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444dec1ff5a00a70800000000000000
+      internalID: 8791208987747763276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 404
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c70f5e81612b600800000000000000
+      internalID: 482472406274833521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 404
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12398b1f81862efd0800000000000000
+      internalID: -2314172802171104479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5fcfd8cbd92a30800000000000000
+      internalID: 4191122584039807650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 404
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181b17568bdf07e0800000000000000
+      internalID: -1796976356264044524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e37beaedcad5a70800000000000000
+      internalID: 8817393717875261015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9ef78de9efb62a0800000000000000
+      internalID: -6743016058866636340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd0f90892ef89480800000000000000
+      internalID: -8892078010038022664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845119684a96d4510800000000000000
+      internalID: 1534999203356415304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d6eea809d8aa860800000000000000
+      internalID: 7541996177931005260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 339
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8efb88f783f66e0800000000000000
+      internalID: -1842191602164963151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 339
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bee106bb2b4e930800000000000000
+      internalID: 4171655672693189431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 339
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a65ff28a97583b0800000000000000
+      internalID: -5510864805751854517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 339
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8cadc732bdc510800000000000000
+      internalID: 1571107797765753348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308cd767b0c07e390800000000000000
+      internalID: -7789243787141855229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 339
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c76cc77521f1760800000000000000
+      internalID: 7430678077149445258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 339
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15cc616934c18b0800000000000000
+      internalID: -5180191159476268609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 339
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aea63f0e4920050800000000000000
+      internalID: 5765334166865111631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 339
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2ec315f364d790800000000000000
+      internalID: -7506264774669357974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 339
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a787df3a2d28ad70800000000000000
+      internalID: 9054536710311348134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 339
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b724cb4dfe278b230800000000000000
+      internalID: 3654797472003015291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 339
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22834a1b29f063af0800000000000000
+      internalID: -417128792765220830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 339
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6340e6a23bbda9bc0800000000000000
+      internalID: -3775463775039257546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 339
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b10cd3d74016c0800000000000000
+      internalID: -4174757879317678375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23774d9782c6519b0800000000000000
+      internalID: -5110059281083500750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0a4725438744450800000000000000
+      internalID: 6072110363719278781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4648fa56f4c4a1d60800000000000000
+      internalID: 7861680003420750948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebc2018fbc95b070800000000000000
+      internalID: 8121569849349688292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 276
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a052f9b990c9410800000000000000
+      internalID: 1485072541120006746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8083cca8f1e1450800000000000000
+      internalID: 6061316829479438517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 276
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786fb2f8d0742e780800000000000000
+      internalID: -8655277410290502009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 276
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a74c5ec1e8704c70800000000000000
+      internalID: 8953288970437674918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 276
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c283ba843444d3e0800000000000000
+      internalID: -2029922539581242679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 276
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e31d8bf2c31990800000000000000
+      internalID: -7416369775689603071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 276
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e142a30c1a432e7c0800000000000000
+      internalID: -4043611646105869282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 276
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e5ed6b67e9d5f00800000000000000
+      internalID: 1107215316114366009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 276
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301215b5d53b3c8c0800000000000000
+      internalID: -3980140432120012541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 276
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498b3571f0dfba70800000000000000
+      internalID: 8845017928651475276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 276
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c339277cde64200800000000000000
+      internalID: 164079877322128479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5e96fae7f428a70800000000000000
+      internalID: 8827705625127020025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 214
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c7473e241358530800000000000000
+      internalID: 3856542819266362526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 214
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c0a26fd2c1ae7c0800000000000000
+      internalID: -4041386731882542053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 214
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2abe52980d4c60800000000000000
+      internalID: 7803903154050444960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 214
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e2fd4c9c1dee0d0800000000000000
+      internalID: -3391542804841812392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8bf6ced48498430800000000000000
+      internalID: 3785636461298039020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 213
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d20ccd6e034a310800000000000000
+      internalID: 1415309951005371710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 214
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb77483950d70fc0800000000000000
+      internalID: -3528622701406618651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43cb669c08188ab0800000000000000
+      internalID: -5005724543479987382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c16b5d5a2087020800000000000000
+      internalID: 2339622917697313889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c387eccd5d9810800000000000000
+      internalID: 1773676962892727752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36e0fec05aa0fc80800000000000000
+      internalID: -8290939649943083461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29be98a81a2b2cc0800000000000000
+      internalID: -3734845180577138385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a591258d99cad0800000000000000
+      internalID: -2681438908002752113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d36640381365a80800000000000000
+      internalID: -8478534809694093994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d896c22dd33b96370800000000000000
+      internalID: 8316375265016834445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e1e483d5739c2b0800000000000000
+      internalID: -5563854991123407257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb8dba8a74b49990800000000000000
+      internalID: -7380075450946712613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 149
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b40e4836437e630800000000000000
+      internalID: 3956188399703968577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff5cb893c222340800000000000000
+      internalID: 4837477575419101172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f01b3e7a2bdae70800000000000000
+      internalID: 9128148453899177880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 149
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6107c5768cd1a9ff0800000000000000
+      internalID: -28677701059710954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 149
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4f3a5d44680730800000000000000
+      internalID: 3965529755289079164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 149
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c1c71e4ff2c9b0800000000000000
+      internalID: -5061202320339909058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 149
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be20bf25d801230800000000000000
+      internalID: 3607538689061874515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abae7effe4b2254c0800000000000000
+      internalID: -4300327075884569926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 149
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568ffe9e111b6a20800000000000000
+      internalID: 3056555595315250777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b1350fd5075d90800000000000000
+      internalID: -7109207031358049540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 149
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d9705b5955bdbe0800000000000000
+      internalID: -1451472353421189834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 149
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36437a3401550b8b0800000000000000
+      internalID: -5138513646486866845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368e178a5d8e26b0800000000000000
+      internalID: -5319158689924479433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f0d63ff6423c90800000000000000
+      internalID: -7191607593006993012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89f5a939c4d9f20800000000000000
+      internalID: 3430982687960045776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 83
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d131ee71faa496170800000000000000
+      internalID: 8172145114721686301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 83
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1debe82a5ec03c0800000000000000
+      internalID: -4391883050250743391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b35afea6b7dfd0800000000000000
+      internalID: -2317182620618476877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 83
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffa442610935040800000000000000
+      internalID: 4635206866266947511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb794730c8157eb0800000000000000
+      internalID: -4722841420387746829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 83
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111bd2106bec73c50800000000000000
+      internalID: 6645007056307597585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 83
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33b4ec05746bc30800000000000000
+      internalID: 4374762500421006324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 83
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbc26d6238f7a170800000000000000
+      internalID: 8189787342863780798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 83
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3443a26e0bb1430800000000000000
+      internalID: 3754789216940475330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 83
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bd57636d7b9c40800000000000000
+      internalID: 5520143634162104422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df286da2ff612d50800000000000000
+      internalID: 6710768007840804818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da5f85fb2c725e0800000000000000
+      internalID: -1934363387845300971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 83
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a0a7f06f52c470800000000000000
+      internalID: 8413391923957506215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87fee5c1f2da3050800000000000000
+      internalID: 5781165007533176717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e9e239373afc8b0800000000000000
+      internalID: -5129701733765833132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c89e8c7b25d19e20800000000000000
+      internalID: 3355697580117760196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe589ce00c8faa250800000000000000
+      internalID: 5956846960916399599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22072e6235be14ad0800000000000000
+      internalID: -2719633957587881950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b07bd4a6b925e0800000000000000
+      internalID: -1933813745806428929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e6356b9d22c3a30800000000000000
+      internalID: 4196267271264628257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 19
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d5bd2deb276fcc0800000000000000
+      internalID: -3677625881794487025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 19
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7f4f3a337930e30800000000000000
+      internalID: 4468581503331530690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357361e437db5750800000000000000
+      internalID: 6294861526300063033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384f676fd06a71a40800000000000000
+      internalID: 5338918462170788995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064baf0deb6721dd0800000000000000
+      internalID: -2516818679824731040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 19
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb6dde58e699a180800000000000000
+      internalID: -9103579246984598533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3061ed6ced7a960800000000000000
+      internalID: 7613298640803988438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockStart_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a4c80d3a7e1650800000000000000
+      internalID: 6205531739121820074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlockStart_Shadowless_0: -7464124435946323754
+      BlockStart_Shadowless_1: -5503661101888964104
+      BlockStart_Shadowless_10: -6899605922190305726
+      BlockStart_Shadowless_100: 8189787342863780798
+      BlockStart_Shadowless_101: 3754789216940475330
+      BlockStart_Shadowless_102: 5520143634162104422
+      BlockStart_Shadowless_103: 6710768007840804818
+      BlockStart_Shadowless_104: -1934363387845300971
+      BlockStart_Shadowless_105: 8413391923957506215
+      BlockStart_Shadowless_106: 5781165007533176717
+      BlockStart_Shadowless_107: -5129701733765833132
+      BlockStart_Shadowless_108: 3355697580117760196
+      BlockStart_Shadowless_109: 5956846960916399599
+      BlockStart_Shadowless_11: -4588871693315030945
+      BlockStart_Shadowless_110: -2719633957587881950
+      BlockStart_Shadowless_111: -1933813745806428929
+      BlockStart_Shadowless_112: 4196267271264628257
+      BlockStart_Shadowless_113: -3677625881794487025
+      BlockStart_Shadowless_114: 4468581503331530690
+      BlockStart_Shadowless_115: 6294861526300063033
+      BlockStart_Shadowless_116: 5338918462170788995
+      BlockStart_Shadowless_117: -2516818679824731040
+      BlockStart_Shadowless_118: -9103579246984598533
+      BlockStart_Shadowless_119: 7613298640803988438
+      BlockStart_Shadowless_12: 5372708641063327150
+      BlockStart_Shadowless_120: 6205531739121820074
+      BlockStart_Shadowless_13: 5097186480127317167
+      BlockStart_Shadowless_14: 6399532944646500578
+      BlockStart_Shadowless_15: 9057475313242390031
+      BlockStart_Shadowless_16: 4202850558864959673
+      BlockStart_Shadowless_17: 1039733022522808350
+      BlockStart_Shadowless_18: 590571383853775851
+      BlockStart_Shadowless_19: -7942143297264497534
+      BlockStart_Shadowless_2: 8457959362976390663
+      BlockStart_Shadowless_20: -654371486947021027
+      BlockStart_Shadowless_21: 8791208987747763276
+      BlockStart_Shadowless_22: 482472406274833521
+      BlockStart_Shadowless_23: -2314172802171104479
+      BlockStart_Shadowless_24: 4191122584039807650
+      BlockStart_Shadowless_25: -1796976356264044524
+      BlockStart_Shadowless_26: 8817393717875261015
+      BlockStart_Shadowless_27: -6743016058866636340
+      BlockStart_Shadowless_28: -8892078010038022664
+      BlockStart_Shadowless_29: 1534999203356415304
+      BlockStart_Shadowless_3: 2312797274732311051
+      BlockStart_Shadowless_30: 7541996177931005260
+      BlockStart_Shadowless_31: -1842191602164963151
+      BlockStart_Shadowless_32: 4171655672693189431
+      BlockStart_Shadowless_33: -5510864805751854517
+      BlockStart_Shadowless_34: 1571107797765753348
+      BlockStart_Shadowless_35: -7789243787141855229
+      BlockStart_Shadowless_36: 7430678077149445258
+      BlockStart_Shadowless_37: -5180191159476268609
+      BlockStart_Shadowless_38: 5765334166865111631
+      BlockStart_Shadowless_39: -7506264774669357974
+      BlockStart_Shadowless_4: 4012079602495182020
+      BlockStart_Shadowless_40: 9054536710311348134
+      BlockStart_Shadowless_41: 3654797472003015291
+      BlockStart_Shadowless_42: -417128792765220830
+      BlockStart_Shadowless_43: -3775463775039257546
+      BlockStart_Shadowless_44: -4174757879317678375
+      BlockStart_Shadowless_45: -5110059281083500750
+      BlockStart_Shadowless_46: 6072110363719278781
+      BlockStart_Shadowless_47: 7861680003420750948
+      BlockStart_Shadowless_48: 8121569849349688292
+      BlockStart_Shadowless_49: 1485072541120006746
+      BlockStart_Shadowless_5: -6503576405851146271
+      BlockStart_Shadowless_50: 6061316829479438517
+      BlockStart_Shadowless_51: -8655277410290502009
+      BlockStart_Shadowless_52: 8953288970437674918
+      BlockStart_Shadowless_53: -2029922539581242679
+      BlockStart_Shadowless_54: -7416369775689603071
+      BlockStart_Shadowless_55: -4043611646105869282
+      BlockStart_Shadowless_56: 1107215316114366009
+      BlockStart_Shadowless_57: -3980140432120012541
+      BlockStart_Shadowless_58: 8845017928651475276
+      BlockStart_Shadowless_59: 164079877322128479
+      BlockStart_Shadowless_6: 9012287289451852841
+      BlockStart_Shadowless_60: 8827705625127020025
+      BlockStart_Shadowless_61: 3856542819266362526
+      BlockStart_Shadowless_62: -4041386731882542053
+      BlockStart_Shadowless_63: 7803903154050444960
+      BlockStart_Shadowless_64: -3391542804841812392
+      BlockStart_Shadowless_65: 3785636461298039020
+      BlockStart_Shadowless_66: 1415309951005371710
+      BlockStart_Shadowless_67: -3528622701406618651
+      BlockStart_Shadowless_68: -5005724543479987382
+      BlockStart_Shadowless_69: 2339622917697313889
+      BlockStart_Shadowless_7: 8760923212328795230
+      BlockStart_Shadowless_70: 1773676962892727752
+      BlockStart_Shadowless_71: -8290939649943083461
+      BlockStart_Shadowless_72: -3734845180577138385
+      BlockStart_Shadowless_73: -2681438908002752113
+      BlockStart_Shadowless_74: -8478534809694093994
+      BlockStart_Shadowless_75: 8316375265016834445
+      BlockStart_Shadowless_76: -5563854991123407257
+      BlockStart_Shadowless_77: -7380075450946712613
+      BlockStart_Shadowless_78: 3956188399703968577
+      BlockStart_Shadowless_79: 4837477575419101172
+      BlockStart_Shadowless_8: 4487188433493865558
+      BlockStart_Shadowless_80: 9128148453899177880
+      BlockStart_Shadowless_81: -28677701059710954
+      BlockStart_Shadowless_82: 3965529755289079164
+      BlockStart_Shadowless_83: -5061202320339909058
+      BlockStart_Shadowless_84: 3607538689061874515
+      BlockStart_Shadowless_85: -4300327075884569926
+      BlockStart_Shadowless_86: 3056555595315250777
+      BlockStart_Shadowless_87: -7109207031358049540
+      BlockStart_Shadowless_88: -1451472353421189834
+      BlockStart_Shadowless_89: -5138513646486866845
+      BlockStart_Shadowless_9: 1281089449151447211
+      BlockStart_Shadowless_90: -5319158689924479433
+      BlockStart_Shadowless_91: -7191607593006993012
+      BlockStart_Shadowless_92: 3430982687960045776
+      BlockStart_Shadowless_93: 8172145114721686301
+      BlockStart_Shadowless_94: -4391883050250743391
+      BlockStart_Shadowless_95: -2317182620618476877
+      BlockStart_Shadowless_96: 4635206866266947511
+      BlockStart_Shadowless_97: -4722841420387746829
+      BlockStart_Shadowless_98: 6645007056307597585
+      BlockStart_Shadowless_99: 4374762500421006324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 4151ee19a2d92a2479ff4f56cc662c0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5941250169108229362
+    second: DarkArrowRain_0
+  - first:
+      213: -443540080421680791
+    second: DarkArrowRain_1
+  - first:
+      213: -329559113799932451
+    second: DarkArrowRain_2
+  - first:
+      213: -8826899226051264539
+    second: DarkArrowRain_3
+  - first:
+      213: -886110241558570385
+    second: DarkArrowRain_4
+  - first:
+      213: 8074424681008390467
+    second: DarkArrowRain_5
+  - first:
+      213: 5755800454963972593
+    second: DarkArrowRain_6
+  - first:
+      213: 4365027300488957487
+    second: DarkArrowRain_7
+  - first:
+      213: 8465974244390625977
+    second: DarkArrowRain_8
+  - first:
+      213: 5603802648564230690
+    second: DarkArrowRain_9
+  - first:
+      213: -3218499199102433486
+    second: DarkArrowRain_10
+  - first:
+      213: 5884922946445121389
+    second: DarkArrowRain_11
+  - first:
+      213: -3258903194198684489
+    second: DarkArrowRain_12
+  - first:
+      213: 2902319927326827178
+    second: DarkArrowRain_13
+  - first:
+      213: -6704328530824237475
+    second: DarkArrowRain_14
+  - first:
+      213: 1208115090405004847
+    second: DarkArrowRain_15
+  - first:
+      213: -8308722503027312935
+    second: DarkArrowRain_16
+  - first:
+      213: 4671380539959413431
+    second: DarkArrowRain_17
+  - first:
+      213: -6609137865263271500
+    second: DarkArrowRain_18
+  - first:
+      213: -5096851942364145166
+    second: DarkArrowRain_19
+  - first:
+      213: 3659974793416361074
+    second: DarkArrowRain_20
+  - first:
+      213: -8815713048977182429
+    second: DarkArrowRain_21
+  - first:
+      213: -1075785912879512063
+    second: DarkArrowRain_22
+  - first:
+      213: -5295261074361624945
+    second: DarkArrowRain_23
+  - first:
+      213: -6227896480519503214
+    second: DarkArrowRain_24
+  - first:
+      213: 7121115621000828091
+    second: DarkArrowRain_25
+  - first:
+      213: 3143671717127468304
+    second: DarkArrowRain_26
+  - first:
+      213: 7469414473515934976
+    second: DarkArrowRain_27
+  - first:
+      213: -8407521806686474778
+    second: DarkArrowRain_28
+  - first:
+      213: -3394414635583419324
+    second: DarkArrowRain_29
+  - first:
+      213: -3410881334884875712
+    second: DarkArrowRain_30
+  - first:
+      213: -2069858802185392761
+    second: DarkArrowRain_31
+  - first:
+      213: -1642960207252851135
+    second: DarkArrowRain_32
+  - first:
+      213: 8835418011973964728
+    second: DarkArrowRain_33
+  - first:
+      213: -3720914895085978190
+    second: DarkArrowRain_34
+  - first:
+      213: 5071707203742360178
+    second: DarkArrowRain_35
+  - first:
+      213: 5439427171430334812
+    second: DarkArrowRain_36
+  - first:
+      213: -2716567377127899840
+    second: DarkArrowRain_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkArrowRain_0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 215
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcec6bfc8f837250800000000000000
+      internalID: 5941250169108229362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 119
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96941d695aa38d9f0800000000000000
+      internalID: -443540080421680791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 237
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd566796bbb2d6bf0800000000000000
+      internalID: -329559113799932451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 207
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef3b0bbbed808580800000000000000
+      internalID: -8826899226051264539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 190
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad01c1e67e3b3f0800000000000000
+      internalID: -886110241558570385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 225
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341e62d977e1e0070800000000000000
+      internalID: 8074424681008390467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 120
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9c82ca406b0ef40800000000000000
+      internalID: 5755800454963972593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_7
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 101
+        width: 65
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec680f331b39c30800000000000000
+      internalID: 4365027300488957487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_8
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 242
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2628a78be2d7570800000000000000
+      internalID: 8465974244390625977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_9
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 237
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a601391d4b4cd40800000000000000
+      internalID: 5603802648564230690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_10
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 78
+        width: 132
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ce9fd7089553d0800000000000000
+      internalID: -3218499199102433486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_11
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 144
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6718697d327ba150800000000000000
+      internalID: 5884922946445121389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_12
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 142
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc660bfcc06c2d0800000000000000
+      internalID: -3258903194198684489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_13
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 137
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa26ad4c89c174820800000000000000
+      internalID: 2902319927326827178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_14
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 184
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e64b6e8b075f2a0800000000000000
+      internalID: -6704328530824237475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 91
+        width: 42
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26116b164614c010800000000000000
+      internalID: 1208115090405004847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_16
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 60
+        width: 29
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d633cda7ec71bc80800000000000000
+      internalID: -8308722503027312935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_17
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 181
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba04fed9d314d040800000000000000
+      internalID: 4671380539959413431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_18
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 176
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13665d020a744a0800000000000000
+      internalID: -6609137865263271500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_19
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 136
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f910a6a9285449b0800000000000000
+      internalID: -5096851942364145166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_20
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 11
+        width: 115
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744778eea7dac230800000000000000
+      internalID: 3659974793416361074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_21
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 179
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32170f980bb48a580800000000000000
+      internalID: -8815713048977182429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_22
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 170
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1068278796a0211f0800000000000000
+      internalID: -1075785912879512063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_23
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 151
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d8bdbb147386b0800000000000000
+      internalID: -5295261074361624945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_24
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 54
+        width: 23
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292cab4d5211299a0800000000000000
+      internalID: -6227896480519503214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_25
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 86
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45d329de843d260800000000000000
+      internalID: 7121115621000828091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_26
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 104
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01533d555c090ab20800000000000000
+      internalID: 3143671717127468304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_27
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 59
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005241693e0b8a760800000000000000
+      internalID: 7469414473515934976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_28
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 79
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed2a17367b725b80800000000000000
+      internalID: -8407521806686474778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_29
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 30
+        width: 204
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc9a19fdd94e0d0800000000000000
+      internalID: -3394414635583419324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_30
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 81
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0424d2f5f7d1aa0d0800000000000000
+      internalID: -3410881334884875712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_31
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d2680d2626643e0800000000000000
+      internalID: -2069858802185392761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_32
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 9
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146779275680339e0800000000000000
+      internalID: -1642960207252851135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_33
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 53
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3dbcdaed5bd9a70800000000000000
+      internalID: 8835418011973964728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_34
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 35
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb0fefd97ac5cc0800000000000000
+      internalID: -3720914895085978190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_35
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726adba4d2526640800000000000000
+      internalID: 5071707203742360178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_36
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5186be613abc7b40800000000000000
+      internalID: 5439427171430334812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkArrowRain_37
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 29
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d70ed0d50dc4ad0800000000000000
+      internalID: -2716567377127899840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkArrowRain_0: 5941250169108229362
+      DarkArrowRain_1: -443540080421680791
+      DarkArrowRain_10: -3218499199102433486
+      DarkArrowRain_11: 5884922946445121389
+      DarkArrowRain_12: -3258903194198684489
+      DarkArrowRain_13: 2902319927326827178
+      DarkArrowRain_14: -6704328530824237475
+      DarkArrowRain_15: 1208115090405004847
+      DarkArrowRain_16: -8308722503027312935
+      DarkArrowRain_17: 4671380539959413431
+      DarkArrowRain_18: -6609137865263271500
+      DarkArrowRain_19: -5096851942364145166
+      DarkArrowRain_2: -329559113799932451
+      DarkArrowRain_20: 3659974793416361074
+      DarkArrowRain_21: -8815713048977182429
+      DarkArrowRain_22: -1075785912879512063
+      DarkArrowRain_23: -5295261074361624945
+      DarkArrowRain_24: -6227896480519503214
+      DarkArrowRain_25: 7121115621000828091
+      DarkArrowRain_26: 3143671717127468304
+      DarkArrowRain_27: 7469414473515934976
+      DarkArrowRain_28: -8407521806686474778
+      DarkArrowRain_29: -3394414635583419324
+      DarkArrowRain_3: -8826899226051264539
+      DarkArrowRain_30: -3410881334884875712
+      DarkArrowRain_31: -2069858802185392761
+      DarkArrowRain_32: -1642960207252851135
+      DarkArrowRain_33: 8835418011973964728
+      DarkArrowRain_34: -3720914895085978190
+      DarkArrowRain_35: 5071707203742360178
+      DarkArrowRain_36: 5439427171430334812
+      DarkArrowRain_37: -2716567377127899840
+      DarkArrowRain_4: -886110241558570385
+      DarkArrowRain_5: 8074424681008390467
+      DarkArrowRain_6: 5755800454963972593
+      DarkArrowRain_7: 4365027300488957487
+      DarkArrowRain_8: 8465974244390625977
+      DarkArrowRain_9: 5603802648564230690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

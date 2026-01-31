@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 0e0d382fcaff5964f927216d4e0fe9ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 798055660260834425
+    second: BlockMid_Shadowless_0
+  - first:
+      213: 2050111879164227016
+    second: BlockMid_Shadowless_1
+  - first:
+      213: 3787541226441428627
+    second: BlockMid_Shadowless_2
+  - first:
+      213: -6236886407956875516
+    second: BlockMid_Shadowless_3
+  - first:
+      213: 3381868008426079682
+    second: BlockMid_Shadowless_4
+  - first:
+      213: -8193720172733669314
+    second: BlockMid_Shadowless_5
+  - first:
+      213: 5808870906075297555
+    second: BlockMid_Shadowless_6
+  - first:
+      213: -7802953064305553879
+    second: BlockMid_Shadowless_7
+  - first:
+      213: -1761254543059095634
+    second: BlockMid_Shadowless_8
+  - first:
+      213: 4895854526220883990
+    second: BlockMid_Shadowless_9
+  - first:
+      213: -8046346620475254356
+    second: BlockMid_Shadowless_10
+  - first:
+      213: 4847359249381555622
+    second: BlockMid_Shadowless_11
+  - first:
+      213: 3393485490350464083
+    second: BlockMid_Shadowless_12
+  - first:
+      213: -4722110343765484070
+    second: BlockMid_Shadowless_13
+  - first:
+      213: -6893046012209711333
+    second: BlockMid_Shadowless_14
+  - first:
+      213: -4501775292998952148
+    second: BlockMid_Shadowless_15
+  - first:
+      213: 2830336256119392604
+    second: BlockMid_Shadowless_16
+  - first:
+      213: -763973101238581241
+    second: BlockMid_Shadowless_17
+  - first:
+      213: 2516003110056164693
+    second: BlockMid_Shadowless_18
+  - first:
+      213: -3034182667260442185
+    second: BlockMid_Shadowless_19
+  - first:
+      213: 8534860737700109627
+    second: BlockMid_Shadowless_20
+  - first:
+      213: 5791393022470512452
+    second: BlockMid_Shadowless_21
+  - first:
+      213: 3642572936776647119
+    second: BlockMid_Shadowless_22
+  - first:
+      213: -8245497758841650588
+    second: BlockMid_Shadowless_23
+  - first:
+      213: -5608818911411599181
+    second: BlockMid_Shadowless_24
+  - first:
+      213: 8999727455310319285
+    second: BlockMid_Shadowless_25
+  - first:
+      213: 6340138908475261630
+    second: BlockMid_Shadowless_26
+  - first:
+      213: 5569809398249192349
+    second: BlockMid_Shadowless_27
+  - first:
+      213: -8260143331058443705
+    second: BlockMid_Shadowless_28
+  - first:
+      213: 2845896906764387580
+    second: BlockMid_Shadowless_29
+  - first:
+      213: 6194945736357200687
+    second: BlockMid_Shadowless_30
+  - first:
+      213: 5600493761203103935
+    second: BlockMid_Shadowless_31
+  - first:
+      213: -5532481205696447696
+    second: BlockMid_Shadowless_32
+  - first:
+      213: -8603920076494923457
+    second: BlockMid_Shadowless_33
+  - first:
+      213: 6526596775584663283
+    second: BlockMid_Shadowless_34
+  - first:
+      213: 6672379724652536251
+    second: BlockMid_Shadowless_35
+  - first:
+      213: -4344118168089310794
+    second: BlockMid_Shadowless_36
+  - first:
+      213: 466969182528936234
+    second: BlockMid_Shadowless_37
+  - first:
+      213: 5341525660329496428
+    second: BlockMid_Shadowless_38
+  - first:
+      213: 840228472798648575
+    second: BlockMid_Shadowless_39
+  - first:
+      213: -2198323165307272043
+    second: BlockMid_Shadowless_40
+  - first:
+      213: 2710003803104784827
+    second: BlockMid_Shadowless_41
+  - first:
+      213: -2205968607198785808
+    second: BlockMid_Shadowless_42
+  - first:
+      213: -6985820152496692838
+    second: BlockMid_Shadowless_43
+  - first:
+      213: -6631618526854549164
+    second: BlockMid_Shadowless_44
+  - first:
+      213: -4569815980480319078
+    second: BlockMid_Shadowless_45
+  - first:
+      213: 1523528362751275360
+    second: BlockMid_Shadowless_46
+  - first:
+      213: -5800316179315533565
+    second: BlockMid_Shadowless_47
+  - first:
+      213: 8979877132452078584
+    second: BlockMid_Shadowless_48
+  - first:
+      213: -7599272493122532317
+    second: BlockMid_Shadowless_49
+  - first:
+      213: -2733644732092003174
+    second: BlockMid_Shadowless_50
+  - first:
+      213: -9197401349676408942
+    second: BlockMid_Shadowless_51
+  - first:
+      213: 3166939900047072076
+    second: BlockMid_Shadowless_52
+  - first:
+      213: -400974420577435551
+    second: BlockMid_Shadowless_53
+  - first:
+      213: -1700457657095117992
+    second: BlockMid_Shadowless_54
+  - first:
+      213: -6333662267661062946
+    second: BlockMid_Shadowless_55
+  - first:
+      213: 4384525540378913908
+    second: BlockMid_Shadowless_56
+  - first:
+      213: 5725275161952079579
+    second: BlockMid_Shadowless_57
+  - first:
+      213: -9007666405608332701
+    second: BlockMid_Shadowless_58
+  - first:
+      213: -4422071661950998345
+    second: BlockMid_Shadowless_59
+  - first:
+      213: -6668708825179782882
+    second: BlockMid_Shadowless_60
+  - first:
+      213: -7240391776269252051
+    second: BlockMid_Shadowless_61
+  - first:
+      213: -6744597311476986344
+    second: BlockMid_Shadowless_62
+  - first:
+      213: 3496005938227797437
+    second: BlockMid_Shadowless_63
+  - first:
+      213: -331262250544880881
+    second: BlockMid_Shadowless_64
+  - first:
+      213: 2335757825797441674
+    second: BlockMid_Shadowless_65
+  - first:
+      213: -2620151065657082019
+    second: BlockMid_Shadowless_66
+  - first:
+      213: 5906193214316628589
+    second: BlockMid_Shadowless_67
+  - first:
+      213: -8165317309591137536
+    second: BlockMid_Shadowless_68
+  - first:
+      213: -7441423233114799490
+    second: BlockMid_Shadowless_69
+  - first:
+      213: -8428560812261004991
+    second: BlockMid_Shadowless_70
+  - first:
+      213: -3190051474258916239
+    second: BlockMid_Shadowless_71
+  - first:
+      213: 6990206417739145044
+    second: BlockMid_Shadowless_72
+  - first:
+      213: -7723445453632959374
+    second: BlockMid_Shadowless_73
+  - first:
+      213: -6101226408769417676
+    second: BlockMid_Shadowless_74
+  - first:
+      213: 8901697976700782240
+    second: BlockMid_Shadowless_75
+  - first:
+      213: 227717532900262467
+    second: BlockMid_Shadowless_76
+  - first:
+      213: 2567194741706140845
+    second: BlockMid_Shadowless_77
+  - first:
+      213: 65196631856628570
+    second: BlockMid_Shadowless_78
+  - first:
+      213: 303622628862369475
+    second: BlockMid_Shadowless_79
+  - first:
+      213: 2435426650751717314
+    second: BlockMid_Shadowless_80
+  - first:
+      213: -3236544761350682097
+    second: BlockMid_Shadowless_81
+  - first:
+      213: -5342130745471859919
+    second: BlockMid_Shadowless_82
+  - first:
+      213: -554565524253736044
+    second: BlockMid_Shadowless_83
+  - first:
+      213: -7076531376408307230
+    second: BlockMid_Shadowless_84
+  - first:
+      213: 8280063186740645859
+    second: BlockMid_Shadowless_85
+  - first:
+      213: 1765050396742046152
+    second: BlockMid_Shadowless_86
+  - first:
+      213: 979160150871369813
+    second: BlockMid_Shadowless_87
+  - first:
+      213: 159667706735046831
+    second: BlockMid_Shadowless_88
+  - first:
+      213: -7713392198663513027
+    second: BlockMid_Shadowless_89
+  - first:
+      213: 5293822742376161906
+    second: BlockMid_Shadowless_90
+  - first:
+      213: -8963851419693447598
+    second: BlockMid_Shadowless_91
+  - first:
+      213: 2617534330092090531
+    second: BlockMid_Shadowless_92
+  - first:
+      213: -3813389213945035689
+    second: BlockMid_Shadowless_93
+  - first:
+      213: -60743166636413353
+    second: BlockMid_Shadowless_94
+  - first:
+      213: 337628015793537184
+    second: BlockMid_Shadowless_95
+  - first:
+      213: -5613148162659216315
+    second: BlockMid_Shadowless_96
+  - first:
+      213: -4190698850689758353
+    second: BlockMid_Shadowless_97
+  - first:
+      213: -8933975995351071941
+    second: BlockMid_Shadowless_98
+  - first:
+      213: -6153791961803003565
+    second: BlockMid_Shadowless_99
+  - first:
+      213: -1956507433949003244
+    second: BlockMid_Shadowless_100
+  - first:
+      213: -7011889725649108935
+    second: BlockMid_Shadowless_101
+  - first:
+      213: 904677311952400330
+    second: BlockMid_Shadowless_102
+  - first:
+      213: -234636201211859701
+    second: BlockMid_Shadowless_103
+  - first:
+      213: -2474440854159762772
+    second: BlockMid_Shadowless_104
+  - first:
+      213: -2189251282855879596
+    second: BlockMid_Shadowless_105
+  - first:
+      213: -7497633346488657068
+    second: BlockMid_Shadowless_106
+  - first:
+      213: -2692896676128287335
+    second: BlockMid_Shadowless_107
+  - first:
+      213: -3095401429032715555
+    second: BlockMid_Shadowless_108
+  - first:
+      213: -4408786044322489779
+    second: BlockMid_Shadowless_109
+  - first:
+      213: -9041850910915220668
+    second: BlockMid_Shadowless_110
+  - first:
+      213: 427159435116601511
+    second: BlockMid_Shadowless_111
+  - first:
+      213: -4492532528825304309
+    second: BlockMid_Shadowless_112
+  - first:
+      213: 632295022676374714
+    second: BlockMid_Shadowless_113
+  - first:
+      213: 1940491649428415753
+    second: BlockMid_Shadowless_114
+  - first:
+      213: -6997178994921544994
+    second: BlockMid_Shadowless_115
+  - first:
+      213: -4948577879073205807
+    second: BlockMid_Shadowless_116
+  - first:
+      213: -6170467356266048949
+    second: BlockMid_Shadowless_117
+  - first:
+      213: 8333596276506144876
+    second: BlockMid_Shadowless_118
+  - first:
+      213: -5412887941648857532
+    second: BlockMid_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 468
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c36dc0563431b00800000000000000
+      internalID: 798055660260834425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 468
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd646364e5737c10800000000000000
+      internalID: 2050111879164227016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e403e9dac009430800000000000000
+      internalID: 3787541226441428627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b44d3bd02279a0800000000000000
+      internalID: -6236886407956875516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58e77290fceee20800000000000000
+      internalID: 3381868008426079682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e1434aee0a4e80800000000000000
+      internalID: -8193720172733669314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31738b6ff414d9050800000000000000
+      internalID: 5808870906075297555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8503a78756b390800000000000000
+      internalID: -7802953064305553879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf6be91354ce87e0800000000000000
+      internalID: -1761254543059095634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618526390c191f340800000000000000
+      internalID: 4895854526220883990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca958ea4162a55090800000000000000
+      internalID: -8046346620475254356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 468
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad771e0e87454340800000000000000
+      internalID: 4847359249381555622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c18c2f215181f20800000000000000
+      internalID: 3393485490350464083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add19a149a1b77eb0800000000000000
+      internalID: -4722110343765484070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 468
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1731dd3c2bf650a0800000000000000
+      internalID: -6893046012209711333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bda22f83b7681c0800000000000000
+      internalID: -4501775292998952148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 404
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59c7e444df574720800000000000000
+      internalID: 2830336256119392604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 404
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70888ba1382d565f0800000000000000
+      internalID: -763973101238581241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dfcac8f73aae220800000000000000
+      internalID: 2516003110056164693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 404
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b94b4e90fa64e5d0800000000000000
+      internalID: -3034182667260442185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d1b0e0f9ae17670800000000000000
+      internalID: 8534860737700109627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd70315492f5050800000000000000
+      internalID: 5791393022470512452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1060d69c40d8230800000000000000
+      internalID: 3642572936776647119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462c6ff897b129d80800000000000000
+      internalID: -8245497758841650588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b881d7bae87922b0800000000000000
+      internalID: -5608818911411599181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be0a11207475ec70800000000000000
+      internalID: 8999727455310319285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20d4aeeb2bcf750800000000000000
+      internalID: 6340138908475261630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b76493320fb4d40800000000000000
+      internalID: 5569809398249192349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 404
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a137e87631e5d80800000000000000
+      internalID: -8260143331058443705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf403139828ae7720800000000000000
+      internalID: 2845896906764387580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 339
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234462335ed8f550800000000000000
+      internalID: 6194945736357200687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 339
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb86d433763f8bd40800000000000000
+      internalID: 5600493761203103935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 339
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b30ffd7ada833b0800000000000000
+      internalID: -5532481205696447696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 339
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391ba4a64cb89880800000000000000
+      internalID: -8603920076494923457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 339
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60fe02031239a50800000000000000
+      internalID: 6526596775584663283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 339
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1ee6ef10e099c50800000000000000
+      internalID: 6672379724652536251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 339
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b947b0da8796b3c0800000000000000
+      internalID: -4344118168089310794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 339
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2911b55ff10b7600800000000000000
+      internalID: 466969182528936234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 339
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fc2969949e02a40800000000000000
+      internalID: 5341525660329496428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 339
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff81553285719ab00800000000000000
+      internalID: 840228472798648575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 339
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59409567abcfd71e0800000000000000
+      internalID: -2198323165307272043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 339
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b408c91edb9520800000000000000
+      internalID: 2710003803104784827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 339
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fec04e4d33d261e0800000000000000
+      internalID: -2205968607198785808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 339
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a916ba175916d0f90800000000000000
+      internalID: -6985820152496692838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 339
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4517fece512c7f3a0800000000000000
+      internalID: -6631618526854549164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 276
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a913192e390c490c0800000000000000
+      internalID: -4569815980480319078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 276
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061b50359f8a42510800000000000000
+      internalID: 1523528362751275360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 276
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30952f29a23218fa0800000000000000
+      internalID: -5800316179315533565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 276
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3a57eacaeee9c70800000000000000
+      internalID: 8979877132452078584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 276
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cc8002ee5f98690800000000000000
+      internalID: -7599272493122532317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 276
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cc9818994201ad0800000000000000
+      internalID: -2733644732092003174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 276
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fd6dfc3344c5080800000000000000
+      internalID: -9197401349676408942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 276
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b11575f0b33fb20800000000000000
+      internalID: 3166939900047072076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 276
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160c67193e37f6af0800000000000000
+      internalID: -400974420577435551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a04135c2c668e0800000000000000
+      internalID: -1700457657095117992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 276
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc64c889bf4a18a0800000000000000
+      internalID: -6333662267661062946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 276
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ca9eeafb6f8dc30800000000000000
+      internalID: 4384525540378913908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 276
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde458d0d63447f40800000000000000
+      internalID: 5725275161952079579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 276
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ee76f0275ef280800000000000000
+      internalID: -9007666405608332701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 276
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8e61aa045a1a2c0800000000000000
+      internalID: -4422071661950998345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1185a4e7acf373a0800000000000000
+      internalID: -6668708825179782882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2acfcc6a06f48b90800000000000000
+      internalID: -7240391776269252051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e0c58ca706662a0800000000000000
+      internalID: -6744597311476986344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd59b0d0ee448030800000000000000
+      internalID: 3496005938227797437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a6ccfcbe176bf0800000000000000
+      internalID: -331262250544880881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88cefffd574a6020800000000000000
+      internalID: 2335757825797441674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff5a9ec7a53abd0800000000000000
+      internalID: -2620151065657082019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 214
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a4a22af6307f150800000000000000
+      internalID: 5906193214316628589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d87b2b27feae80800000000000000
+      internalID: -8165317309591137536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e728adeeef0cab890800000000000000
+      internalID: -7441423233114799490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a761099cb70b80800000000000000
+      internalID: -8428560812261004991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0695f519aab3d0800000000000000
+      internalID: -3190051474258916239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 214
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f5ff383b3320160800000000000000
+      internalID: 6990206417739145044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0a1ec74fc0d490800000000000000
+      internalID: -7723445453632959374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 214
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e011b28e6145ba0800000000000000
+      internalID: -6101226408769417676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 149
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a64017852f298b70800000000000000
+      internalID: 8901697976700782240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 149
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34206a1c3e3092300800000000000000
+      internalID: 227717532900262467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac25a8140280a320800000000000000
+      internalID: 2567194741706140845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 149
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cd52cdff97e000800000000000000
+      internalID: 65196631856628570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce9c1b1c2fa63400800000000000000
+      internalID: 303622628862369475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf439aa2af5cc120800000000000000
+      internalID: 2435426650751717314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 149
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a8a0000bb7513d0800000000000000
+      internalID: -3236544761350682097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 149
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133057c0460fcd5b0800000000000000
+      internalID: -5342130745471859919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 149
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4938d2a0899cd48f0800000000000000
+      internalID: -554565524253736044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 149
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d64bc43c1bcd90800000000000000
+      internalID: -7076531376408307230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef07734991b8e270800000000000000
+      internalID: 8280063186740645859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 149
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d874fbf7be7810800000000000000
+      internalID: 1765050396742046152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 149
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e7ea28fca69d00800000000000000
+      internalID: 979160150871369813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa03b0eeee0473200800000000000000
+      internalID: 159667706735046831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 149
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5461a9a684f490800000000000000
+      internalID: -7713392198663513027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272273f7cbf677940800000000000000
+      internalID: 5293822742376161906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568ac550a00a9380800000000000000
+      internalID: -8963851419693447598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4778cda99535420800000000000000
+      internalID: 2617534330092090531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 83
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540080d6be141bc0800000000000000
+      internalID: -3813389213945035689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 83
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eaa1a6962382ff0800000000000000
+      internalID: -60743166636413353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 83
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0089b34ee7fa400800000000000000
+      internalID: 337628015793537184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449f0d5c771a12b0800000000000000
+      internalID: -5613148162659216315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 83
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bcffb3995a7d5c0800000000000000
+      internalID: -4190698850689758353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 83
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338b3d9a24240480800000000000000
+      internalID: -8933975995351071941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 83
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e31f90d6599aa0800000000000000
+      internalID: -6153791961803003565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 83
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120f07dad619d4e0800000000000000
+      internalID: -1956507433949003244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 83
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304972f173c0be90800000000000000
+      internalID: -7011889725649108935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 83
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf2747d83f0e8c00800000000000000
+      internalID: 904677311952400330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0de15f3e976ebcf0800000000000000
+      internalID: -234636201211859701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad71e372509add0800000000000000
+      internalID: -2474440854159762772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9e41be873e91e0800000000000000
+      internalID: -2189251282855879596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b9b6e023e03f790800000000000000
+      internalID: -7497633346488657068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951b8a9db8e0aad0800000000000000
+      internalID: -2692896676128287335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddab449ecccea05d0800000000000000
+      internalID: -3095401429032715555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a55719378d0d2c0800000000000000
+      internalID: -4408786044322489779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b2bd69084e48280800000000000000
+      internalID: -9041850910915220668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0e4983e339de500800000000000000
+      internalID: 427159435116601511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfa7da77157a1c0800000000000000
+      internalID: -4492532528825304309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47fdb19fc56c800800000000000000
+      internalID: 632295022676374714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905eacdbfd20eea10800000000000000
+      internalID: 1940491649428415753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 19
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed260e9d6c605ee90800000000000000
+      internalID: -6997178994921544994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d15c7e33ae135bb0800000000000000
+      internalID: -4948577879073205807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 19
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425e9bc1a81e5aa0800000000000000
+      internalID: -6170467356266048949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60baa209a1e6a370800000000000000
+      internalID: 8333596276506144876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMid_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 19
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464605881f81e4b0800000000000000
+      internalID: -5412887941648857532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlockMid_Shadowless_0: 798055660260834425
+      BlockMid_Shadowless_1: 2050111879164227016
+      BlockMid_Shadowless_10: -8046346620475254356
+      BlockMid_Shadowless_100: -1956507433949003244
+      BlockMid_Shadowless_101: -7011889725649108935
+      BlockMid_Shadowless_102: 904677311952400330
+      BlockMid_Shadowless_103: -234636201211859701
+      BlockMid_Shadowless_104: -2474440854159762772
+      BlockMid_Shadowless_105: -2189251282855879596
+      BlockMid_Shadowless_106: -7497633346488657068
+      BlockMid_Shadowless_107: -2692896676128287335
+      BlockMid_Shadowless_108: -3095401429032715555
+      BlockMid_Shadowless_109: -4408786044322489779
+      BlockMid_Shadowless_11: 4847359249381555622
+      BlockMid_Shadowless_110: -9041850910915220668
+      BlockMid_Shadowless_111: 427159435116601511
+      BlockMid_Shadowless_112: -4492532528825304309
+      BlockMid_Shadowless_113: 632295022676374714
+      BlockMid_Shadowless_114: 1940491649428415753
+      BlockMid_Shadowless_115: -6997178994921544994
+      BlockMid_Shadowless_116: -4948577879073205807
+      BlockMid_Shadowless_117: -6170467356266048949
+      BlockMid_Shadowless_118: 8333596276506144876
+      BlockMid_Shadowless_119: -5412887941648857532
+      BlockMid_Shadowless_12: 3393485490350464083
+      BlockMid_Shadowless_13: -4722110343765484070
+      BlockMid_Shadowless_14: -6893046012209711333
+      BlockMid_Shadowless_15: -4501775292998952148
+      BlockMid_Shadowless_16: 2830336256119392604
+      BlockMid_Shadowless_17: -763973101238581241
+      BlockMid_Shadowless_18: 2516003110056164693
+      BlockMid_Shadowless_19: -3034182667260442185
+      BlockMid_Shadowless_2: 3787541226441428627
+      BlockMid_Shadowless_20: 8534860737700109627
+      BlockMid_Shadowless_21: 5791393022470512452
+      BlockMid_Shadowless_22: 3642572936776647119
+      BlockMid_Shadowless_23: -8245497758841650588
+      BlockMid_Shadowless_24: -5608818911411599181
+      BlockMid_Shadowless_25: 8999727455310319285
+      BlockMid_Shadowless_26: 6340138908475261630
+      BlockMid_Shadowless_27: 5569809398249192349
+      BlockMid_Shadowless_28: -8260143331058443705
+      BlockMid_Shadowless_29: 2845896906764387580
+      BlockMid_Shadowless_3: -6236886407956875516
+      BlockMid_Shadowless_30: 6194945736357200687
+      BlockMid_Shadowless_31: 5600493761203103935
+      BlockMid_Shadowless_32: -5532481205696447696
+      BlockMid_Shadowless_33: -8603920076494923457
+      BlockMid_Shadowless_34: 6526596775584663283
+      BlockMid_Shadowless_35: 6672379724652536251
+      BlockMid_Shadowless_36: -4344118168089310794
+      BlockMid_Shadowless_37: 466969182528936234
+      BlockMid_Shadowless_38: 5341525660329496428
+      BlockMid_Shadowless_39: 840228472798648575
+      BlockMid_Shadowless_4: 3381868008426079682
+      BlockMid_Shadowless_40: -2198323165307272043
+      BlockMid_Shadowless_41: 2710003803104784827
+      BlockMid_Shadowless_42: -2205968607198785808
+      BlockMid_Shadowless_43: -6985820152496692838
+      BlockMid_Shadowless_44: -6631618526854549164
+      BlockMid_Shadowless_45: -4569815980480319078
+      BlockMid_Shadowless_46: 1523528362751275360
+      BlockMid_Shadowless_47: -5800316179315533565
+      BlockMid_Shadowless_48: 8979877132452078584
+      BlockMid_Shadowless_49: -7599272493122532317
+      BlockMid_Shadowless_5: -8193720172733669314
+      BlockMid_Shadowless_50: -2733644732092003174
+      BlockMid_Shadowless_51: -9197401349676408942
+      BlockMid_Shadowless_52: 3166939900047072076
+      BlockMid_Shadowless_53: -400974420577435551
+      BlockMid_Shadowless_54: -1700457657095117992
+      BlockMid_Shadowless_55: -6333662267661062946
+      BlockMid_Shadowless_56: 4384525540378913908
+      BlockMid_Shadowless_57: 5725275161952079579
+      BlockMid_Shadowless_58: -9007666405608332701
+      BlockMid_Shadowless_59: -4422071661950998345
+      BlockMid_Shadowless_6: 5808870906075297555
+      BlockMid_Shadowless_60: -6668708825179782882
+      BlockMid_Shadowless_61: -7240391776269252051
+      BlockMid_Shadowless_62: -6744597311476986344
+      BlockMid_Shadowless_63: 3496005938227797437
+      BlockMid_Shadowless_64: -331262250544880881
+      BlockMid_Shadowless_65: 2335757825797441674
+      BlockMid_Shadowless_66: -2620151065657082019
+      BlockMid_Shadowless_67: 5906193214316628589
+      BlockMid_Shadowless_68: -8165317309591137536
+      BlockMid_Shadowless_69: -7441423233114799490
+      BlockMid_Shadowless_7: -7802953064305553879
+      BlockMid_Shadowless_70: -8428560812261004991
+      BlockMid_Shadowless_71: -3190051474258916239
+      BlockMid_Shadowless_72: 6990206417739145044
+      BlockMid_Shadowless_73: -7723445453632959374
+      BlockMid_Shadowless_74: -6101226408769417676
+      BlockMid_Shadowless_75: 8901697976700782240
+      BlockMid_Shadowless_76: 227717532900262467
+      BlockMid_Shadowless_77: 2567194741706140845
+      BlockMid_Shadowless_78: 65196631856628570
+      BlockMid_Shadowless_79: 303622628862369475
+      BlockMid_Shadowless_8: -1761254543059095634
+      BlockMid_Shadowless_80: 2435426650751717314
+      BlockMid_Shadowless_81: -3236544761350682097
+      BlockMid_Shadowless_82: -5342130745471859919
+      BlockMid_Shadowless_83: -554565524253736044
+      BlockMid_Shadowless_84: -7076531376408307230
+      BlockMid_Shadowless_85: 8280063186740645859
+      BlockMid_Shadowless_86: 1765050396742046152
+      BlockMid_Shadowless_87: 979160150871369813
+      BlockMid_Shadowless_88: 159667706735046831
+      BlockMid_Shadowless_89: -7713392198663513027
+      BlockMid_Shadowless_9: 4895854526220883990
+      BlockMid_Shadowless_90: 5293822742376161906
+      BlockMid_Shadowless_91: -8963851419693447598
+      BlockMid_Shadowless_92: 2617534330092090531
+      BlockMid_Shadowless_93: -3813389213945035689
+      BlockMid_Shadowless_94: -60743166636413353
+      BlockMid_Shadowless_95: 337628015793537184
+      BlockMid_Shadowless_96: -5613148162659216315
+      BlockMid_Shadowless_97: -4190698850689758353
+      BlockMid_Shadowless_98: -8933975995351071941
+      BlockMid_Shadowless_99: -6153791961803003565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

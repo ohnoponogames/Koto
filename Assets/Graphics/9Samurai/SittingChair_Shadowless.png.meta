@@ -1,0 +1,3068 @@
+fileFormatVersion: 2
+guid: 6df287e247a0a6145b19631a31fac4ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8223261060981258694
+    second: SittingChair_Shadowless_0
+  - first:
+      213: -8371721513135850422
+    second: SittingChair_Shadowless_1
+  - first:
+      213: 5618326851704258225
+    second: SittingChair_Shadowless_2
+  - first:
+      213: 1692654292700053772
+    second: SittingChair_Shadowless_3
+  - first:
+      213: 4241083729659663699
+    second: SittingChair_Shadowless_4
+  - first:
+      213: -8088516960512778011
+    second: SittingChair_Shadowless_5
+  - first:
+      213: 7799727495810466794
+    second: SittingChair_Shadowless_6
+  - first:
+      213: 5329411699860837143
+    second: SittingChair_Shadowless_7
+  - first:
+      213: 5141187358119761172
+    second: SittingChair_Shadowless_8
+  - first:
+      213: 5721949027424465497
+    second: SittingChair_Shadowless_9
+  - first:
+      213: -3859864139278736388
+    second: SittingChair_Shadowless_10
+  - first:
+      213: -3125071659436510369
+    second: SittingChair_Shadowless_11
+  - first:
+      213: 4363999643740602300
+    second: SittingChair_Shadowless_12
+  - first:
+      213: -2177536746557589241
+    second: SittingChair_Shadowless_13
+  - first:
+      213: 4978654272610180995
+    second: SittingChair_Shadowless_14
+  - first:
+      213: 8420867737488963536
+    second: SittingChair_Shadowless_15
+  - first:
+      213: 5750413369345083323
+    second: SittingChair_Shadowless_16
+  - first:
+      213: -520995802286639541
+    second: SittingChair_Shadowless_17
+  - first:
+      213: 4753066982039132237
+    second: SittingChair_Shadowless_18
+  - first:
+      213: 6645289802551520668
+    second: SittingChair_Shadowless_19
+  - first:
+      213: -2611977121660491820
+    second: SittingChair_Shadowless_20
+  - first:
+      213: -7178081021772761881
+    second: SittingChair_Shadowless_21
+  - first:
+      213: -2815686549627467155
+    second: SittingChair_Shadowless_22
+  - first:
+      213: -20317579740475581
+    second: SittingChair_Shadowless_23
+  - first:
+      213: 1069153237820060298
+    second: SittingChair_Shadowless_24
+  - first:
+      213: 1004435534941095561
+    second: SittingChair_Shadowless_25
+  - first:
+      213: -6841178055752292452
+    second: SittingChair_Shadowless_26
+  - first:
+      213: 7759708198464045315
+    second: SittingChair_Shadowless_27
+  - first:
+      213: 5943477285853593369
+    second: SittingChair_Shadowless_28
+  - first:
+      213: 9195703303413742732
+    second: SittingChair_Shadowless_29
+  - first:
+      213: -5881338663185809453
+    second: SittingChair_Shadowless_30
+  - first:
+      213: 2699399634828372613
+    second: SittingChair_Shadowless_31
+  - first:
+      213: -1487215262112779737
+    second: SittingChair_Shadowless_32
+  - first:
+      213: -7905045795228014822
+    second: SittingChair_Shadowless_33
+  - first:
+      213: -4143076605807793230
+    second: SittingChair_Shadowless_34
+  - first:
+      213: -1505257360540426435
+    second: SittingChair_Shadowless_35
+  - first:
+      213: 143759651048800983
+    second: SittingChair_Shadowless_36
+  - first:
+      213: 5965248586860705511
+    second: SittingChair_Shadowless_37
+  - first:
+      213: -1936520260995033815
+    second: SittingChair_Shadowless_38
+  - first:
+      213: 1349579960610350714
+    second: SittingChair_Shadowless_39
+  - first:
+      213: 4201172086250939169
+    second: SittingChair_Shadowless_40
+  - first:
+      213: 9026613325588248533
+    second: SittingChair_Shadowless_41
+  - first:
+      213: -6862346027828999301
+    second: SittingChair_Shadowless_42
+  - first:
+      213: -6246224507290871973
+    second: SittingChair_Shadowless_43
+  - first:
+      213: 1394872342465801432
+    second: SittingChair_Shadowless_44
+  - first:
+      213: 5373163917053414175
+    second: SittingChair_Shadowless_45
+  - first:
+      213: -4194522320558883224
+    second: SittingChair_Shadowless_46
+  - first:
+      213: 5436163833363712390
+    second: SittingChair_Shadowless_47
+  - first:
+      213: -9002329697757201802
+    second: SittingChair_Shadowless_48
+  - first:
+      213: -7306799192263285225
+    second: SittingChair_Shadowless_49
+  - first:
+      213: 8660846091753739814
+    second: SittingChair_Shadowless_50
+  - first:
+      213: -8172917064857623278
+    second: SittingChair_Shadowless_51
+  - first:
+      213: -105441821621907556
+    second: SittingChair_Shadowless_52
+  - first:
+      213: 8639061517432389585
+    second: SittingChair_Shadowless_53
+  - first:
+      213: 8471387929495951439
+    second: SittingChair_Shadowless_54
+  - first:
+      213: 8618812083359444101
+    second: SittingChair_Shadowless_55
+  - first:
+      213: -5744967736531648012
+    second: SittingChair_Shadowless_56
+  - first:
+      213: 5066643273294995023
+    second: SittingChair_Shadowless_57
+  - first:
+      213: 2775705113037747666
+    second: SittingChair_Shadowless_58
+  - first:
+      213: -3244471161792456178
+    second: SittingChair_Shadowless_59
+  - first:
+      213: 7445425224648925813
+    second: SittingChair_Shadowless_60
+  - first:
+      213: -1574356303944397058
+    second: SittingChair_Shadowless_61
+  - first:
+      213: -2878371945720093379
+    second: SittingChair_Shadowless_62
+  - first:
+      213: -767817698747036827
+    second: SittingChair_Shadowless_63
+  - first:
+      213: 7519869378262863679
+    second: SittingChair_Shadowless_64
+  - first:
+      213: -5481694498700525091
+    second: SittingChair_Shadowless_65
+  - first:
+      213: -5599537375659318125
+    second: SittingChair_Shadowless_66
+  - first:
+      213: -6186237039171678608
+    second: SittingChair_Shadowless_67
+  - first:
+      213: 1454419681256380866
+    second: SittingChair_Shadowless_68
+  - first:
+      213: -130192920310605754
+    second: SittingChair_Shadowless_69
+  - first:
+      213: -7753727737451866114
+    second: SittingChair_Shadowless_70
+  - first:
+      213: -9172567830007608628
+    second: SittingChair_Shadowless_71
+  - first:
+      213: -789699226943245851
+    second: SittingChair_Shadowless_72
+  - first:
+      213: -1255992656464180156
+    second: SittingChair_Shadowless_73
+  - first:
+      213: 6257489260624571565
+    second: SittingChair_Shadowless_74
+  - first:
+      213: 3206430774973148799
+    second: SittingChair_Shadowless_75
+  - first:
+      213: -2725542354440693019
+    second: SittingChair_Shadowless_76
+  - first:
+      213: -5701164767770512575
+    second: SittingChair_Shadowless_77
+  - first:
+      213: 7819844346982720915
+    second: SittingChair_Shadowless_78
+  - first:
+      213: 5389511625316657581
+    second: SittingChair_Shadowless_79
+  - first:
+      213: 7382574664866116676
+    second: SittingChair_Shadowless_80
+  - first:
+      213: -5712747726967302427
+    second: SittingChair_Shadowless_81
+  - first:
+      213: -1046108072820460306
+    second: SittingChair_Shadowless_82
+  - first:
+      213: 4431707687259232517
+    second: SittingChair_Shadowless_83
+  - first:
+      213: -995849869897146607
+    second: SittingChair_Shadowless_84
+  - first:
+      213: -3267712364577360787
+    second: SittingChair_Shadowless_85
+  - first:
+      213: 8777268492485171385
+    second: SittingChair_Shadowless_86
+  - first:
+      213: 6204975837903826388
+    second: SittingChair_Shadowless_87
+  - first:
+      213: 4322884114711356440
+    second: SittingChair_Shadowless_88
+  - first:
+      213: 4908452107278920222
+    second: SittingChair_Shadowless_89
+  - first:
+      213: 1838859466405455834
+    second: SittingChair_Shadowless_90
+  - first:
+      213: 3472064628538544271
+    second: SittingChair_Shadowless_91
+  - first:
+      213: 6768579806244488594
+    second: SittingChair_Shadowless_92
+  - first:
+      213: -2560888768302051243
+    second: SittingChair_Shadowless_93
+  - first:
+      213: 3267495474811961992
+    second: SittingChair_Shadowless_94
+  - first:
+      213: -4074909049259837022
+    second: SittingChair_Shadowless_95
+  - first:
+      213: 416582213585710809
+    second: SittingChair_Shadowless_96
+  - first:
+      213: 8191961857162747969
+    second: SittingChair_Shadowless_97
+  - first:
+      213: 2299848673666804502
+    second: SittingChair_Shadowless_98
+  - first:
+      213: -3590053037809233988
+    second: SittingChair_Shadowless_99
+  - first:
+      213: -2888235653321421117
+    second: SittingChair_Shadowless_100
+  - first:
+      213: -3179620269149608934
+    second: SittingChair_Shadowless_101
+  - first:
+      213: 8872712795240247445
+    second: SittingChair_Shadowless_102
+  - first:
+      213: -5496233128371055704
+    second: SittingChair_Shadowless_103
+  - first:
+      213: 7237053262866795457
+    second: SittingChair_Shadowless_104
+  - first:
+      213: 9074633966604231834
+    second: SittingChair_Shadowless_105
+  - first:
+      213: -1580224741038402281
+    second: SittingChair_Shadowless_106
+  - first:
+      213: 9067060796644962278
+    second: SittingChair_Shadowless_107
+  - first:
+      213: 5484716852175699512
+    second: SittingChair_Shadowless_108
+  - first:
+      213: 1809474892174465456
+    second: SittingChair_Shadowless_109
+  - first:
+      213: 6979138121823371704
+    second: SittingChair_Shadowless_110
+  - first:
+      213: -1924394739957935892
+    second: SittingChair_Shadowless_111
+  - first:
+      213: -5343573535585740277
+    second: SittingChair_Shadowless_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 468
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3609ec32ab11ed80800000000000000
+      internalID: -8223261060981258694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cba0b93aba1db80800000000000000
+      internalID: -8371721513135850422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 468
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1befed3218e48fd40800000000000000
+      internalID: 5618326851704258225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 467
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c014de37c148d7710800000000000000
+      internalID: 1692654292700053772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 466
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559d019e2b5bda30800000000000000
+      internalID: 4241083729659663699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 466
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e9e0eda0dfbf80800000000000000
+      internalID: -8088516960512778011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 466
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae341ac25d23e3c60800000000000000
+      internalID: 7799727495810466794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 466
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713140064bfd5f940800000000000000
+      internalID: 5329411699860837143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 466
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415157cb9aa295740800000000000000
+      internalID: 5141187358119761172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 466
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952f6820352786f40800000000000000
+      internalID: 5721949027424465497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 466
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a50904020f6ac0800000000000000
+      internalID: -3859864139278736388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 466
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5375a112e381a4d0800000000000000
+      internalID: -3125071659436510369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 466
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff615fd8a009c30800000000000000
+      internalID: 4363999643740602300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 466
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093318bdd5d7c1e0800000000000000
+      internalID: -2177536746557589241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 403
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1962deabb71540800000000000000
+      internalID: 4978654272610180995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 403
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b391779eecd470800000000000000
+      internalID: 8420867737488963536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 402
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7887f0e729dcf40800000000000000
+      internalID: 5750413369345083323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 402
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b463c33041d05c8f0800000000000000
+      internalID: -520995802286639541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 403
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d489412cc3946f140800000000000000
+      internalID: 4753066982039132237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 404
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9deb9efddfc83c50800000000000000
+      internalID: 6645289802551520668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 404
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7aafd85a460cbd0800000000000000
+      internalID: -2611977121660491820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 404
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4f2408755526c90800000000000000
+      internalID: -7178081021772761881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 404
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a0c92500cace8d0800000000000000
+      internalID: -2815686549627467155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 404
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f8fd4d441d7bff0800000000000000
+      internalID: -20317579740475581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 404
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8239b6843566de00800000000000000
+      internalID: 1069153237820060298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 404
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98681fb1cc870fd00800000000000000
+      internalID: 1004435534941095561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 404
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97efadedc04f01a0800000000000000
+      internalID: -6841178055752292452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 404
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301c22a6e7500bb60800000000000000
+      internalID: 7759708198464045315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 339
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ff7e10a197b7250800000000000000
+      internalID: 5943477285853593369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cbcdbfe63bd9f70800000000000000
+      internalID: 9195703303413742732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 339
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dff90185a9416ea0800000000000000
+      internalID: -5881338663185809453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 340
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aa3c47aa1367520800000000000000
+      internalID: 2699399634828372613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 341
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227a3549995c5be0800000000000000
+      internalID: -1487215262112779737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 342
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a172d326bb2ab4290800000000000000
+      internalID: -7905045795228014822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 342
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb689927c5d086c0800000000000000
+      internalID: -4143076605807793230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 342
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f1271e7604c1be0800000000000000
+      internalID: -1505257360540426435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 342
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d24cc514acbef100800000000000000
+      internalID: 143759651048800983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 343
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6bbb80cf1d8c250800000000000000
+      internalID: 5965248586860705511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 343
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255b0f25191025e0800000000000000
+      internalID: -1936520260995033815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 342
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a766a24e2dbaab210800000000000000
+      internalID: 1349579960610350714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 342
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1232641f0cf8d4a30800000000000000
+      internalID: 4201172086250939169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 341
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7be7c9ef8f44d70800000000000000
+      internalID: 9026613325588248533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b807d55ac04c0a0800000000000000
+      internalID: -6862346027828999301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 277
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57969f87e3f059a0800000000000000
+      internalID: -6246224507290871973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dce0bf41059b5310800000000000000
+      internalID: 1394872342465801432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 279
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4ae34d10519a40800000000000000
+      internalID: 5373163917053414175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 277
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef3a84c201ac5c0800000000000000
+      internalID: -4194522320558883224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 277
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68948745432217b40800000000000000
+      internalID: 5436163833363712390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 276
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a7b3616dc411380800000000000000
+      internalID: -9002329697757201802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 276
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716290409d8099a90800000000000000
+      internalID: -7306799192263285225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 276
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626df4122a1813870800000000000000
+      internalID: 8660846091753739814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 276
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ee624b37f39e80800000000000000
+      internalID: -8172917064857623278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 276
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f81cdc835698ef0800000000000000
+      internalID: -105441821621907556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 276
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dffd4badac14e770800000000000000
+      internalID: 8639061517432389585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 276
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f485324407a609570800000000000000
+      internalID: 8471387929495951439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 276
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ceb76eceb2c9770800000000000000
+      internalID: 8618812083359444101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 214
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f183f12846c540b0800000000000000
+      internalID: -5744967736531648012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 215
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ede5c7635505640800000000000000
+      internalID: 5066643273294995023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 215
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5b9df0819458620800000000000000
+      internalID: 2775705113037747666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 215
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a9c551ba259f2d0800000000000000
+      internalID: -3244471161792456178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572aee45bc6735760800000000000000
+      internalID: 7445425224648925813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 214
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4f796843c62ae0800000000000000
+      internalID: -1574356303944397058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 213
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3567e337f7fd08d0800000000000000
+      internalID: -2878371945720093379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 211
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bccedfed92855f0800000000000000
+      internalID: -767817698747036827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 211
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f02b88b51fb5860800000000000000
+      internalID: 7519869378262863679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 211
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd10ebd85eb1de3b0800000000000000
+      internalID: -5481694498700525091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 211
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394ad49ac627a42b0800000000000000
+      internalID: -5599537375659318125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 211
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ececf5032162aa0800000000000000
+      internalID: -6186237039171678608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 211
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c99f978ef22f2410800000000000000
+      internalID: 1454419681256380866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 211
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489d909a36713ef0800000000000000
+      internalID: -130192920310605754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 211
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7961c24b9356490800000000000000
+      internalID: -7753727737451866114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 149
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca883e282e74b080800000000000000
+      internalID: -9172567830007608628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1b5a2bcbc6a05f0800000000000000
+      internalID: -789699226943245851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 151
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c04fe5551d19ee0800000000000000
+      internalID: -1255992656464180156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac6955345117d650800000000000000
+      internalID: 6257489260624571565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 149
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea72b2dc78f7c20800000000000000
+      internalID: 3206430774973148799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 149
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead74f4badec2ad0800000000000000
+      internalID: -2725542354440693019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 147
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f01b89d461e0b0800000000000000
+      internalID: -5701164767770512575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 146
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39560c4900ba58c60800000000000000
+      internalID: 7819844346982720915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 146
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da966d3b4446bca40800000000000000
+      internalID: 5389511625316657581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 146
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b42b0b8c247660800000000000000
+      internalID: 7382574664866116676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 146
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e691b2b53e38b0b0800000000000000
+      internalID: -5712747726967302427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 146
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43ed2104a7b71f0800000000000000
+      internalID: -1046108072820460306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 147
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509547f49a6908d30800000000000000
+      internalID: 4431707687259232517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 147
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f592fc1d70e22f0800000000000000
+      internalID: -995849869897146607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64f631eae0c6a2d0800000000000000
+      internalID: -3267712364577360787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b89ec0a03f1fc970800000000000000
+      internalID: 8777268492485171385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 85
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda32236a08c1650800000000000000
+      internalID: 6204975837903826388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 85
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814ac8ed238fdfb30800000000000000
+      internalID: 4322884114711356440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 85
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa06b7f235e1440800000000000000
+      internalID: 4908452107278920222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 85
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad726f621f0f48910800000000000000
+      internalID: 1838859466405455834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 85
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f801d3542604f2030800000000000000
+      internalID: 3472064628538544271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c519e873deed50800000000000000
+      internalID: 6768579806244488594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 84
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5509110cb35e57cd0800000000000000
+      internalID: -2560888768302051243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 84
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8820d5982d9785d20800000000000000
+      internalID: 3267495474811961992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 84
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b7da3fc30377c0800000000000000
+      internalID: -4074909049259837022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 84
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea58ce05ff7c500800000000000000
+      internalID: 416582213585710809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 85
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402cbdf7e1bfa170800000000000000
+      internalID: 8191961857162747969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 85
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b201ffe24baef10800000000000000
+      internalID: 2299848673666804502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf819478c19d2ec0800000000000000
+      internalID: -3590053037809233988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8820d9fceae7d0800000000000000
+      internalID: -2888235653321421117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 20
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a4b82638bfd3d0800000000000000
+      internalID: -3179620269149608934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590bb521745322b70800000000000000
+      internalID: 8872712795240247445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 20
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a395bc071579b3b0800000000000000
+      internalID: -5496233128371055704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 19
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbc1c9599d2f6460800000000000000
+      internalID: 7237053262866795457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 19
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a32e53839fed70800000000000000
+      internalID: 9074633966604231834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 19
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7155f1d68f9e11ae0800000000000000
+      internalID: -1580224741038402281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efa4e451cba4dd70800000000000000
+      internalID: 9067060796644962278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 18
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef783fae0ad1c40800000000000000
+      internalID: 5484716852175699512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 18
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b91c02d3db8c1910800000000000000
+      internalID: 1809474892174465456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 18
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14bad0521ead060800000000000000
+      internalID: 6979138121823371704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 18
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce05d2d0e2d2b45e0800000000000000
+      internalID: -1924394739957935892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SittingChair_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 18
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0adb3c4e20d7d5b0800000000000000
+      internalID: -5343573535585740277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SittingChair_Shadowless_0: -8223261060981258694
+      SittingChair_Shadowless_1: -8371721513135850422
+      SittingChair_Shadowless_10: -3859864139278736388
+      SittingChair_Shadowless_100: -2888235653321421117
+      SittingChair_Shadowless_101: -3179620269149608934
+      SittingChair_Shadowless_102: 8872712795240247445
+      SittingChair_Shadowless_103: -5496233128371055704
+      SittingChair_Shadowless_104: 7237053262866795457
+      SittingChair_Shadowless_105: 9074633966604231834
+      SittingChair_Shadowless_106: -1580224741038402281
+      SittingChair_Shadowless_107: 9067060796644962278
+      SittingChair_Shadowless_108: 5484716852175699512
+      SittingChair_Shadowless_109: 1809474892174465456
+      SittingChair_Shadowless_11: -3125071659436510369
+      SittingChair_Shadowless_110: 6979138121823371704
+      SittingChair_Shadowless_111: -1924394739957935892
+      SittingChair_Shadowless_112: -5343573535585740277
+      SittingChair_Shadowless_12: 4363999643740602300
+      SittingChair_Shadowless_13: -2177536746557589241
+      SittingChair_Shadowless_14: 4978654272610180995
+      SittingChair_Shadowless_15: 8420867737488963536
+      SittingChair_Shadowless_16: 5750413369345083323
+      SittingChair_Shadowless_17: -520995802286639541
+      SittingChair_Shadowless_18: 4753066982039132237
+      SittingChair_Shadowless_19: 6645289802551520668
+      SittingChair_Shadowless_2: 5618326851704258225
+      SittingChair_Shadowless_20: -2611977121660491820
+      SittingChair_Shadowless_21: -7178081021772761881
+      SittingChair_Shadowless_22: -2815686549627467155
+      SittingChair_Shadowless_23: -20317579740475581
+      SittingChair_Shadowless_24: 1069153237820060298
+      SittingChair_Shadowless_25: 1004435534941095561
+      SittingChair_Shadowless_26: -6841178055752292452
+      SittingChair_Shadowless_27: 7759708198464045315
+      SittingChair_Shadowless_28: 5943477285853593369
+      SittingChair_Shadowless_29: 9195703303413742732
+      SittingChair_Shadowless_3: 1692654292700053772
+      SittingChair_Shadowless_30: -5881338663185809453
+      SittingChair_Shadowless_31: 2699399634828372613
+      SittingChair_Shadowless_32: -1487215262112779737
+      SittingChair_Shadowless_33: -7905045795228014822
+      SittingChair_Shadowless_34: -4143076605807793230
+      SittingChair_Shadowless_35: -1505257360540426435
+      SittingChair_Shadowless_36: 143759651048800983
+      SittingChair_Shadowless_37: 5965248586860705511
+      SittingChair_Shadowless_38: -1936520260995033815
+      SittingChair_Shadowless_39: 1349579960610350714
+      SittingChair_Shadowless_4: 4241083729659663699
+      SittingChair_Shadowless_40: 4201172086250939169
+      SittingChair_Shadowless_41: 9026613325588248533
+      SittingChair_Shadowless_42: -6862346027828999301
+      SittingChair_Shadowless_43: -6246224507290871973
+      SittingChair_Shadowless_44: 1394872342465801432
+      SittingChair_Shadowless_45: 5373163917053414175
+      SittingChair_Shadowless_46: -4194522320558883224
+      SittingChair_Shadowless_47: 5436163833363712390
+      SittingChair_Shadowless_48: -9002329697757201802
+      SittingChair_Shadowless_49: -7306799192263285225
+      SittingChair_Shadowless_5: -8088516960512778011
+      SittingChair_Shadowless_50: 8660846091753739814
+      SittingChair_Shadowless_51: -8172917064857623278
+      SittingChair_Shadowless_52: -105441821621907556
+      SittingChair_Shadowless_53: 8639061517432389585
+      SittingChair_Shadowless_54: 8471387929495951439
+      SittingChair_Shadowless_55: 8618812083359444101
+      SittingChair_Shadowless_56: -5744967736531648012
+      SittingChair_Shadowless_57: 5066643273294995023
+      SittingChair_Shadowless_58: 2775705113037747666
+      SittingChair_Shadowless_59: -3244471161792456178
+      SittingChair_Shadowless_6: 7799727495810466794
+      SittingChair_Shadowless_60: 7445425224648925813
+      SittingChair_Shadowless_61: -1574356303944397058
+      SittingChair_Shadowless_62: -2878371945720093379
+      SittingChair_Shadowless_63: -767817698747036827
+      SittingChair_Shadowless_64: 7519869378262863679
+      SittingChair_Shadowless_65: -5481694498700525091
+      SittingChair_Shadowless_66: -5599537375659318125
+      SittingChair_Shadowless_67: -6186237039171678608
+      SittingChair_Shadowless_68: 1454419681256380866
+      SittingChair_Shadowless_69: -130192920310605754
+      SittingChair_Shadowless_7: 5329411699860837143
+      SittingChair_Shadowless_70: -7753727737451866114
+      SittingChair_Shadowless_71: -9172567830007608628
+      SittingChair_Shadowless_72: -789699226943245851
+      SittingChair_Shadowless_73: -1255992656464180156
+      SittingChair_Shadowless_74: 6257489260624571565
+      SittingChair_Shadowless_75: 3206430774973148799
+      SittingChair_Shadowless_76: -2725542354440693019
+      SittingChair_Shadowless_77: -5701164767770512575
+      SittingChair_Shadowless_78: 7819844346982720915
+      SittingChair_Shadowless_79: 5389511625316657581
+      SittingChair_Shadowless_8: 5141187358119761172
+      SittingChair_Shadowless_80: 7382574664866116676
+      SittingChair_Shadowless_81: -5712747726967302427
+      SittingChair_Shadowless_82: -1046108072820460306
+      SittingChair_Shadowless_83: 4431707687259232517
+      SittingChair_Shadowless_84: -995849869897146607
+      SittingChair_Shadowless_85: -3267712364577360787
+      SittingChair_Shadowless_86: 8777268492485171385
+      SittingChair_Shadowless_87: 6204975837903826388
+      SittingChair_Shadowless_88: 4322884114711356440
+      SittingChair_Shadowless_89: 4908452107278920222
+      SittingChair_Shadowless_9: 5721949027424465497
+      SittingChair_Shadowless_90: 1838859466405455834
+      SittingChair_Shadowless_91: 3472064628538544271
+      SittingChair_Shadowless_92: 6768579806244488594
+      SittingChair_Shadowless_93: -2560888768302051243
+      SittingChair_Shadowless_94: 3267495474811961992
+      SittingChair_Shadowless_95: -4074909049259837022
+      SittingChair_Shadowless_96: 416582213585710809
+      SittingChair_Shadowless_97: 8191961857162747969
+      SittingChair_Shadowless_98: 2299848673666804502
+      SittingChair_Shadowless_99: -3590053037809233988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
